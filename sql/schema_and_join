@@ -1,0 +1,28 @@
+CREATE OR REPLACE TABLE `retail_project2_extended.customer_transactions` AS
+SELECT
+  t.*,
+  c.chatbot_usage_count,
+  c.last_chatbot_interaction,
+  c.email_opened_count,
+  c.clicked_ad_campaigns,
+  c.participated_in_survey,
+  c.preferred_channel,
+  c.loyalty_program_status,
+  c.marketing_responsiveness,
+  c.referral_likelihood,
+  c.gender,
+  c.tenure_months
+FROM `retail_project2_extended.transaction_cleaned` t
+LEFT JOIN `retail_project2_extended.customer_cleaned` c
+ON t.customer_id = c.customer_id;
+
+
+SELECT COUNT(*) AS customers
+FROM `retail_project2_extended.customer_cleaned`;
+
+SELECT COUNT(*) AS transactions
+FROM `retail_project2_extended.transaction_cleaned`;
+
+
+SELECT COUNT(*) AS joined_rows
+FROM `retail_project2_extended.customer_transactions`;
