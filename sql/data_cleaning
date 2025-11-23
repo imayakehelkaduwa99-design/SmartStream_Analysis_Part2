@@ -1,0 +1,40 @@
+CREATE OR REPLACE TABLE `retail_project2_extended.customer_cleaned` AS
+SELECT
+  SAFE_CAST(Customer_ID AS INT64) AS customer_id,
+  SAFE_CAST(Chatbot_Usage_Count AS INT64) AS chatbot_usage_count,
+  SAFE_CAST(Last_Chatbot_Interaction AS DATE) AS last_chatbot_interaction,
+  SAFE_CAST(Email_Opened_Count AS INT64) AS email_opened_count,
+  SAFE_CAST(Clicked_Ad_Campaigns AS INT64) AS clicked_ad_campaigns,
+  SAFE_CAST(Participated_in_Survey AS BOOL) AS participated_in_survey,
+  Preferred_Channel AS preferred_channel,
+  Loyalty_Program_Status AS loyalty_program_status,
+  Marketing_Responsiveness AS marketing_responsiveness,
+  Referral_Likelihood AS referral_likelihood,
+  Gender AS gender,
+  SAFE_CAST(Tenure_Months AS INT64) AS tenure_months
+FROM `retail_project2_extended.customer_raw`;
+
+CREATE OR REPLACE TABLE `retail_project2_extended.transaction_cleaned` AS
+SELECT
+  SAFE_CAST(Transaction_ID AS STRING) AS transaction_id,
+  SAFE_CAST(Customer_ID AS INT64) AS customer_id,
+  SAFE_CAST(Transaction_Date AS DATE) AS transaction_date,
+  Product_SKU AS product_sku,
+  Product_Description AS product_description,
+  Product_Category AS product_category,
+  SAFE_CAST(Quantity AS INT64) AS quantity,
+  SAFE_CAST(Avg_Price AS FLOAT64) AS avg_price,
+  SAFE_CAST(Delivery_Charges AS FLOAT64) AS delivery_charges,
+  Coupon_Status AS coupon_status,
+  Coupon_Code AS coupon_code,
+  SAFE_CAST(Discount_pct AS FLOAT64) AS discount_pct,
+  Payment_Method AS payment_method,
+  Shipping_Provider AS shipping_provider,
+  SAFE_CAST(Transaction_Rating AS FLOAT64) AS transaction_rating,
+
+  -- Calculate net revenue
+  SAFE_CAST(Quantity AS INT64)
+    * SAFE_CAST(Avg_Price AS FLOAT64)
+    * (1 - SAFE_CAST(Discount_pct AS FLOAT64) / 100.0) AS net_revenue
+
+FROM `retail_project2_extended.transaction_raw`;
