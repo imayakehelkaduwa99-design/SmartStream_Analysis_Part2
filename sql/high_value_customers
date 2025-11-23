@@ -1,0 +1,12 @@
+WITH customer_spend AS (
+  SELECT
+    customer_id,
+    SUM(net_revenue) AS total_revenue
+  FROM `retail_project2_extended.customer_transactions`
+  GROUP BY customer_id
+),
+threshold AS (
+  SELECT
+    APPROX_TOP_COUNT(total_revenue, 1)[OFFSET(0)].value AS cutoff
+  FROM customer_spend
+)
