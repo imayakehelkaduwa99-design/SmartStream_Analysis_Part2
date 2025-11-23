@@ -1,0 +1,27 @@
+SELECT
+  customer_id,
+  email_opened_count,
+  chatbot_usage_count,
+  preferred_channel
+FROM `retail_project2_extended.customer_cleaned`
+WHERE email_opened_count < 2 AND chatbot_usage_count > 5;
+
+SELECT
+  customer_id,
+  COUNTIF(coupon_status = "Used") AS coupons_used,
+  SUM(net_revenue) AS revenue,
+  AVG(transaction_rating) AS avg_rating,
+  ARRAY_AGG(DISTINCT product_category) AS categories
+FROM `retail_project2_extended.customer_transactions`
+GROUP BY customer_id;
+
+SELECT
+  shipping_provider,
+  AVG(transaction_rating) AS avg_rating,
+  COUNT(*) AS num_transactions
+FROM `retail_project2_extended.customer_transactions`
+GROUP BY shipping_provider;
+
+SELECT
+  CORR(discount_pct, net_revenue) AS discount_revenue_correlation
+FROM `retail_project2_extended.customer_transactions`;
