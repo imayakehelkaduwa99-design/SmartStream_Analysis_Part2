@@ -1,0 +1,18 @@
+WITH last_purchase AS (
+  SELECT
+    customer_id,
+    MAX(transaction_date) AS last_date
+  FROM `retail_project2_extended.customer_transactions`
+  GROUP BY customer_id
+),
+ranked AS (
+  SELECT
+    customer_id,
+    last_date,
+    NTILE(5) OVER (ORDER BY last_date ASC) AS recency_bucket
+  FROM last_purchase
+)
+
+SELECT *
+FROM ranked
+WHERE recency_bucket = 1;
