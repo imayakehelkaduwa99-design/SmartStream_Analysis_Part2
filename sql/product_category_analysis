@@ -1,0 +1,8 @@
+SELECT
+  loyalty_program_status,
+  product_category,
+  SUM(net_revenue) AS category_revenue,
+  COUNT(*) AS total_transactions
+FROM `retail_project2_extended.customer_transactions`
+GROUP BY loyalty_program_status, product_category
+ORDER BY loyalty_program_status, category_revenue DESC;
