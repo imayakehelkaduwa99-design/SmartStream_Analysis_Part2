@@ -1,0 +1,23 @@
+SELECT loyalty_program_status, AVG(transaction_rating) AS avg_rating
+FROM `retail_project2_extended.customer_transactions`
+GROUP BY loyalty_program_status;
+
+
+SELECT preferred_channel, AVG(transaction_rating) AS avg_rating
+FROM `retail_project2_extended.customer_transactions`
+GROUP BY preferred_channel;
+
+
+SELECT product_category, AVG(transaction_rating) AS avg_rating
+FROM `retail_project2_extended.customer_transactions`
+GROUP BY product_category;
+
+
+SELECT shipping_provider, AVG(transaction_rating) AS avg_rating
+FROM `retail_project2_extended.customer_transactions`
+GROUP BY shipping_provider;
+
+
+SELECT payment_method, AVG(transaction_rating) AS avg_rating
+FROM `retail_project2_extended.customer_transactions`
+GROUP BY payment_method;
