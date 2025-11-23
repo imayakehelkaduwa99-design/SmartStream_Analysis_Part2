@@ -1,0 +1,41 @@
+SELECT
+  loyalty_program_status,
+
+  -- Average annual revenue per customer
+  AVG(net_revenue) AS avg_revenue_per_transaction,
+  SUM(net_revenue) / COUNT(DISTINCT customer_id) AS avg_revenue_per_customer,
+
+  -- Average order frequency
+  COUNT(transaction_id) / COUNT(DISTINCT customer_id) AS avg_order_frequency,
+
+  -- Average discount usage
+  AVG(discount_pct) AS avg_discount_used,
+
+  -- Number of transactions per customer
+  COUNT(transaction_id) AS total_transactions,
+  COUNT(transaction_id) / COUNT(DISTINCT customer_id) AS avg_transactions_per_customer,
+
+  -- Customer engagement metrics
+  AVG(email_opened_count) AS avg_email_opens,
+  AVG(clicked_ad_campaigns) AS avg_ad_clicks,
+  AVG(chatbot_usage_count) AS avg_chatbot_usage,
+
+  -- Experience metrics
+  AVG(transaction_rating) AS avg_rating,
+  AVG(delivery_charges) AS avg_delivery_charges,
+
+  -- Most common preferred channel
+  ARRAY_AGG(preferred_channel ORDER BY preferred_channel LIMIT 1)[OFFSET(0)]
+      AS most_common_preferred_channel,
+
+  -- % survey participation
+  AVG(CASE WHEN participated_in_survey = TRUE THEN 1 ELSE 0 END) * 100
+      AS pct_survey_participation,
+
+  -- % likely/very likely to refer
+  AVG(CASE WHEN referral_likelihood IN ("Likely", "Very Likely")
+           THEN 1 ELSE 0 END) * 100 AS pct_likely_to_refer
+
+FROM `retail_project2_extended.customer_transactions`
+GROUP BY loyalty_program_status
+ORDER BY loyalty_program_status;
