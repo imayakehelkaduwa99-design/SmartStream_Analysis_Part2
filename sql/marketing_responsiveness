@@ -1,0 +1,17 @@
+SELECT
+  marketing_responsiveness,
+  AVG(net_revenue) AS avg_revenue,
+  COUNT(transaction_id) / COUNT(DISTINCT customer_id) AS avg_frequency,
+  AVG(discount_pct) AS avg_discount,
+  AVG(CASE WHEN coupon_status = "Used" THEN 1 ELSE 0 END) * 100 AS pct_coupon_usage,
+  AVG(transaction_rating) AS avg_rating,
+  
+  -- channel distribution
+  COUNTIF(preferred_channel = "Email") / COUNT(*) AS pct_email,
+  COUNTIF(preferred_channel = "SMS") / COUNT(*) AS pct_sms,
+  COUNTIF(preferred_channel = "Chatbot") / COUNT(*) AS pct_chatbot,
+  COUNTIF(preferred_channel = "Social Media") / COUNT(*) AS pct_social
+
+FROM `retail_project2_extended.customer_transactions`
+GROUP BY marketing_responsiveness
+ORDER BY avg_revenue DESC;
