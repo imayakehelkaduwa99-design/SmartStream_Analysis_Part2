@@ -1,0 +1,11 @@
+SELECT
+  preferred_channel,
+  SUM(net_revenue) AS total_revenue,
+  AVG(net_revenue) AS avg_revenue_per_transaction,
+  COUNT(transaction_id) / COUNT(DISTINCT customer_id) AS avg_order_frequency,
+  AVG(transaction_rating) AS avg_transaction_rating,
+  AVG(discount_pct) AS avg_discount_pct,
+  AVG(CASE WHEN coupon_status = "Used" THEN 1 ELSE 0 END) * 100 AS coupon_usage_pct
+FROM `retail_project2_extended.customer_transactions`
+GROUP BY preferred_channel
+ORDER BY avg_revenue_per_transaction DESC;
