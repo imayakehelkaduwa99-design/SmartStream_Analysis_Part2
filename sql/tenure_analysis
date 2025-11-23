@@ -1,0 +1,22 @@
+CREATE OR REPLACE TABLE `retail_project2_extended.tenure_groups` AS
+SELECT *,
+  CASE
+    WHEN tenure_months BETWEEN 0 AND 12 THEN "0–12"
+    WHEN tenure_months BETWEEN 13 AND 24 THEN "13–24"
+    WHEN tenure_months BETWEEN 25 AND 36 THEN "25–36"
+    ELSE "37+"
+  END AS tenure_group
+FROM `retail_project2_extended.customer_transactions`;
+
+SELECT
+  tenure_group,
+  AVG(net_revenue) AS avg_revenue,
+  COUNT(transaction_id) / COUNT(DISTINCT customer_id) AS avg_orders,
+  AVG(discount_pct) AS avg_discount,
+  AVG(email_opened_count) AS avg_email,
+  AVG(clicked_ad_campaigns) AS avg_clicks,
+  AVG(chatbot_usage_count) AS avg_chatbot_usage,
+  AVG(transaction_rating) AS avg_rating
+FROM `retail_project2_extended.tenure_groups`
+GROUP BY tenure_group
+ORDER BY tenure_group;
