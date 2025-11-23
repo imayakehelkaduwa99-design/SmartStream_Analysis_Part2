@@ -1,0 +1,12 @@
+SELECT
+  gender,
+  SUM(net_revenue) AS total_revenue,
+  AVG(net_revenue) AS avg_revenue,
+  COUNT(transaction_id) / COUNT(DISTINCT customer_id) AS avg_orders,
+  AVG(email_opened_count) AS avg_email_opens,
+  AVG(clicked_ad_campaigns) AS avg_ad_clicks,
+  AVG(chatbot_usage_count) AS avg_chatbot_usage,
+  ARRAY_AGG(DISTINCT preferred_channel) AS channels_used,
+  ARRAY_AGG(DISTINCT product_category) AS category_preferences
+FROM `retail_project2_extended.customer_transactions`
+GROUP BY gender;
