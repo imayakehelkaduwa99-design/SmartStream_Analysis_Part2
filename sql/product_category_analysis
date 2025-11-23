@@ -7,3 +7,16 @@ FROM `retail_project2_extended.customer_transactions`
 GROUP BY loyalty_program_status, product_category
 ORDER BY loyalty_program_status, category_revenue DESC;
 
+SELECT
+  gender,
+  product_category,
+  SUM(net_revenue) AS total_revenue
+FROM `retail_project2_extended.customer_transactions`
+GROUP BY gender, product_category;
+
+SELECT
+  preferred_channel,
+  product_category,
+  SUM(net_revenue) AS revenue
+FROM `retail_project2_extended.customer_transactions`
+GROUP BY preferred_channel, product_category;
