@@ -1,0 +1,1418 @@
+Customer_ID,Chatbot_Usage_Count,Last_Chatbot_Interaction,Email_Opened_Count,Clicked_Ad_Campaigns,Participated_in_Survey,Preferred_Channel,Loyalty_Program_Status,Marketing_Responsiveness,Referral_Likelihood,Gender,Tenure_Months
+12346,4,9/12/2024,7,0,True,Email,Silver,Low,Unlikely,F,31
+12347,1,3/8/2024,3,1,True,Email,Gold,High,Likely,M,20
+12348,3,3/8/2024,6,2,False,SMS,None,Moderate,Unlikely,M,39
+12350,3,24/12/2024,7,4,False,Email,None,High,Very Likely,M,25
+12356,2,29/12/2024,4,0,True,Chatbot,None,High,Likely,F,31
+12359,3,11/10/2024,4,4,True,SMS,Silver,Moderate,Likely,M,41
+12370,2,26/9/2024,4,5,False,Chatbot,None,High,Likely,F,21
+12373,3,17/8/2024,3,2,False,Chatbot,Bronze,Moderate,Likely,F,23
+12377,0,,4,1,False,Social Media,None,High,Likely,F,27
+12383,2,18/8/2024,2,2,False,SMS,Bronze,High,Very Likely,M,32
+12386,4,9/9/2024,7,1,False,Social Media,None,High,Likely,M,38
+12388,2,18/8/2024,6,1,False,Email,Silver,Low,Unlikely,M,31
+12393,1,22/11/2024,7,2,False,Email,Bronze,High,Likely,F,39
+12395,3,17/8/2024,5,0,False,SMS,Gold,High,Likely,F,10
+12402,4,21/10/2024,4,0,True,Social Media,Bronze,Moderate,Unlikely,F,22
+12410,4,21/12/2024,5,3,False,Email,None,Moderate,Likely,M,8
+12413,1,9/10/2024,4,2,False,Email,None,High,Likely,F,15
+12414,2,27/12/2024,7,2,False,SMS,Gold,Low,Neutral,M,43
+12415,3,9/11/2024,5,0,False,SMS,Silver,High,Likely,M,29
+12417,2,19/1/2024,6,1,False,Email,None,High,Likely,F,37
+12421,3,29/10/2024,5,0,False,Chatbot,Silver,High,Likely,F,38
+12422,4,11/11/2024,2,1,False,Social Media,Bronze,High,Likely,M,50
+12423,1,12/12/2024,4,0,False,Chatbot,None,High,Very Likely,M,9
+12427,3,4/6/2024,4,2,False,Email,None,Moderate,Likely,F,37
+12429,3,17/8/2024,6,3,False,Email,Silver,Moderate,Likely,F,43
+12431,3,9/2/2024,11,2,False,Email,None,High,Very Likely,F,14
+12433,5,4/12/2024,6,5,True,Email,None,High,Likely,M,32
+12434,0,,8,4,True,Email,None,Low,Neutral,F,32
+12437,1,1/10/2024,5,2,False,Chatbot,None,Moderate,Unlikely,F,50
+12441,4,28/6/2024,3,1,False,Email,Bronze,High,Very Likely,F,39
+12451,3,24/10/2024,5,2,False,Chatbot,None,High,Likely,M,49
+12464,1,23/12/2024,1,1,True,Social Media,None,Moderate,Likely,M,26
+12468,7,8/12/2024,8,2,False,Email,Gold,Moderate,Likely,F,9
+12471,3,24/1/2024,6,3,True,Social Media,None,High,Very Likely,F,11
+12472,4,22/3/2024,4,2,False,Chatbot,None,High,Likely,F,2
+12474,2,25/6/2024,7,0,True,SMS,Bronze,High,Likely,F,17
+12476,1,13/6/2024,1,3,True,Email,Bronze,High,Likely,M,14
+12477,4,26/12/2024,7,7,True,SMS,Silver,Low,Neutral,F,10
+12480,4,18/8/2024,3,2,False,Email,None,High,Very Likely,M,22
+12481,1,8/11/2024,9,2,False,SMS,Silver,High,Likely,F,49
+12483,2,21/7/2024,4,2,True,Email,Silver,Moderate,Likely,F,39
+12484,3,24/10/2024,2,2,False,SMS,Silver,High,Likely,M,44
+12489,5,4/5/2024,4,2,True,Email,None,Moderate,Likely,M,2
+12490,5,14/9/2024,6,1,False,Email,None,High,Likely,F,26
+12494,3,17/10/2024,2,1,False,SMS,Bronze,Moderate,Likely,F,28
+12500,2,17/11/2024,1,3,False,SMS,Silver,Moderate,Unlikely,F,46
+12501,3,6/3/2024,7,3,False,Email,Bronze,High,Likely,M,8
+12502,3,23/12/2024,7,2,False,Email,None,High,Very Likely,F,23
+12510,1,17/12/2024,6,2,False,Chatbot,None,High,Likely,F,25
+12515,6,28/10/2024,8,2,False,SMS,Bronze,Moderate,Unlikely,F,28
+12523,1,11/11/2024,7,0,False,Email,Silver,Moderate,Unlikely,F,35
+12524,5,11/9/2024,5,3,True,SMS,None,Moderate,Likely,F,20
+12527,4,25/9/2024,6,2,False,Email,None,Low,Unlikely,F,25
+12528,3,28/12/2024,6,2,False,Email,Bronze,High,Likely,F,43
+12530,2,21/5/2024,7,1,False,SMS,Bronze,Low,Unlikely,M,29
+12539,3,26/12/2024,6,3,False,Chatbot,Silver,High,Likely,M,13
+12540,2,11/11/2024,3,5,False,Chatbot,Silver,High,Very Likely,F,25
+12551,6,9/12/2024,3,0,True,Email,Bronze,Moderate,Likely,M,41
+12553,2,6/12/2024,1,0,True,Chatbot,None,High,Very Likely,F,8
+12557,6,24/7/2024,5,1,False,Email,Bronze,Moderate,Likely,M,50
+12559,3,18/12/2024,3,2,False,Social Media,Gold,High,Likely,F,25
+12567,0,,9,2,False,Email,Gold,High,Likely,F,23
+12574,5,29/12/2024,8,1,False,Email,Silver,High,Very Likely,F,48
+12577,0,,4,5,False,SMS,None,High,Likely,F,10
+12578,6,1/8/2024,2,0,True,Email,Silver,High,Likely,F,8
+12583,2,4/6/2024,3,1,False,Chatbot,Silver,High,Likely,M,33
+12585,4,25/8/2024,2,2,False,SMS,Bronze,High,Likely,F,4
+12586,3,10/5/2024,4,2,True,Email,None,Low,Unlikely,M,3
+12591,5,16/6/2024,4,3,False,SMS,Gold,High,Likely,F,25
+12594,8,30/11/2024,5,0,True,Email,Bronze,Moderate,Unlikely,F,13
+12600,4,16/7/2024,8,2,False,Email,None,High,Very Likely,M,39
+12601,1,24/11/2024,6,0,True,Social Media,None,Moderate,Unlikely,F,10
+12605,3,31/8/2024,3,1,False,Chatbot,Bronze,Low,Neutral,F,37
+12609,0,,5,4,False,Email,Bronze,Moderate,Unlikely,F,3
+12621,0,,6,6,False,SMS,None,High,Very Likely,M,44
+12625,2,27/12/2024,3,0,False,Email,Silver,High,Likely,M,26
+12626,4,23/12/2024,8,3,True,Chatbot,Silver,High,Likely,F,30
+12637,1,22/11/2024,8,0,False,Social Media,Silver,High,Likely,F,13
+12643,5,25/11/2024,5,0,False,Email,None,Low,Unlikely,M,48
+12645,3,10/11/2024,4,1,False,Chatbot,Bronze,High,Very Likely,F,50
+12647,0,,2,4,False,Email,None,High,Very Likely,M,28
+12649,4,29/9/2024,6,3,True,Email,None,Low,Unlikely,M,33
+12651,1,26/9/2024,5,0,True,Social Media,None,Moderate,Unlikely,M,44
+12652,6,7/7/2024,6,0,False,SMS,Silver,High,Likely,M,21
+12662,3,24/10/2024,7,0,False,Email,None,High,Likely,M,21
+12664,1,24/4/2024,3,2,False,SMS,None,Moderate,Likely,M,14
+12665,1,4/12/2024,9,4,False,Email,None,Low,Neutral,F,10
+12666,0,,2,2,False,Email,Bronze,Low,Unlikely,M,13
+12668,3,26/9/2024,0,3,False,Social Media,Gold,High,Very Likely,F,32
+12672,2,1/12/2024,6,0,False,SMS,Gold,Low,Unlikely,F,43
+12673,4,12/10/2024,4,3,False,Chatbot,None,High,Very Likely,M,4
+12676,5,18/10/2024,6,5,False,Email,None,Moderate,Unlikely,F,38
+12681,1,17/5/2024,4,2,False,SMS,None,High,Very Likely,M,27
+12682,0,,5,4,True,Social Media,Silver,High,Very Likely,F,33
+12683,5,3/9/2024,2,2,False,Email,None,High,Likely,M,15
+12686,5,20/6/2024,5,3,False,Email,None,Low,Unlikely,M,30
+12691,1,2/11/2024,4,1,False,SMS,Bronze,Moderate,Likely,F,7
+12693,0,,3,1,False,Email,None,Low,Neutral,F,4
+12705,2,27/10/2024,5,1,True,Email,None,High,Likely,F,45
+12708,2,3/6/2024,3,5,False,Chatbot,None,High,Likely,F,25
+12709,2,10/9/2024,3,2,False,Social Media,None,High,Likely,M,36
+12712,6,3/10/2024,4,3,True,SMS,Bronze,High,Likely,M,37
+12720,6,20/5/2024,8,0,False,Chatbot,Gold,High,Likely,F,20
+12721,5,5/9/2024,5,1,False,Chatbot,None,High,Likely,F,5
+12724,5,10/9/2024,4,3,False,Chatbot,None,High,Very Likely,M,19
+12725,0,,4,2,False,Email,Gold,High,Very Likely,F,48
+12726,2,19/10/2024,4,1,True,Email,Silver,High,Very Likely,M,25
+12727,5,6/12/2024,4,1,False,Email,None,Moderate,Unlikely,M,6
+12728,5,10/11/2024,7,1,False,Email,Bronze,Moderate,Likely,F,5
+12731,1,23/10/2024,8,1,True,Email,None,High,Likely,F,28
+12734,4,28/7/2024,7,1,False,Email,Silver,Moderate,Likely,F,27
+12735,3,28/10/2024,3,2,False,Email,Gold,High,Very Likely,M,5
+12736,2,20/8/2024,6,2,True,Email,Bronze,Low,Unlikely,F,3
+12738,2,14/5/2024,6,0,False,SMS,Bronze,High,Likely,M,42
+12744,2,10/12/2024,4,1,False,Email,None,High,Likely,M,16
+12747,6,11/2/2024,6,1,False,Chatbot,Bronze,High,Likely,F,9
+12748,4,9/5/2024,9,4,False,Email,Bronze,High,Very Likely,F,28
+12753,1,8/7/2024,6,1,False,Chatbot,Bronze,High,Very Likely,F,13
+12754,1,24/12/2024,4,1,True,Social Media,None,High,Very Likely,F,11
+12755,1,25/12/2024,6,0,False,Chatbot,Bronze,Low,Neutral,F,37
+12763,5,12/9/2024,7,0,True,Chatbot,Bronze,High,Very Likely,F,48
+12764,3,3/7/2024,4,1,False,Social Media,None,High,Very Likely,F,25
+12766,1,9/5/2024,3,4,True,Email,None,High,Likely,F,22
+12775,3,7/11/2024,4,1,False,Social Media,None,Moderate,Likely,M,21
+12778,6,19/4/2024,5,1,False,Chatbot,Silver,Moderate,Unlikely,F,42
+12779,2,7/11/2024,3,1,True,Chatbot,Bronze,High,Very Likely,F,28
+12782,5,28/6/2024,5,1,False,Email,Silver,High,Likely,F,19
+12785,2,3/11/2024,3,1,True,SMS,None,Moderate,Likely,F,36
+12791,1,25/8/2024,5,0,False,SMS,Gold,Low,Neutral,F,26
+12793,7,21/12/2024,5,1,False,SMS,Silver,High,Very Likely,F,39
+12797,8,20/3/2024,5,1,True,Chatbot,None,High,Very Likely,M,34
+12808,0,,6,3,False,Email,None,Moderate,Unlikely,M,32
+12820,3,26/11/2024,6,5,True,Email,None,Moderate,Likely,M,24
+12826,6,14/9/2024,6,7,True,Email,Gold,High,Likely,M,33
+12829,1,23/5/2024,5,5,False,Email,None,Moderate,Unlikely,M,15
+12836,9,4/10/2024,7,0,False,Email,None,High,Likely,M,6
+12838,3,29/7/2024,3,3,False,Email,None,High,Likely,F,31
+12839,3,14/12/2024,5,4,True,Email,Silver,High,Likely,F,45
+12841,6,11/2/2024,7,1,False,Email,None,High,Very Likely,F,19
+12842,2,29/12/2024,2,1,False,Email,None,High,Very Likely,F,27
+12853,0,,8,4,True,Social Media,Bronze,High,Likely,M,11
+12854,4,9/12/2024,4,1,False,Chatbot,Bronze,High,Likely,M,42
+12855,0,,2,0,False,Chatbot,Bronze,Moderate,Unlikely,F,33
+12867,3,1/9/2024,5,1,False,Email,Bronze,High,Likely,M,32
+12868,5,2/10/2024,5,2,True,SMS,Silver,High,Likely,F,8
+12870,5,29/10/2024,4,0,False,SMS,Silver,Low,Unlikely,F,28
+12872,4,13/12/2024,6,3,True,Social Media,Silver,High,Likely,M,20
+12875,1,2/7/2024,8,2,False,Chatbot,None,Low,Unlikely,F,24
+12877,1,9/8/2024,4,5,False,SMS,Silver,High,Likely,F,23
+12908,1,21/12/2024,3,3,False,Chatbot,None,Low,Unlikely,M,32
+12913,2,17/8/2024,6,3,False,Email,None,Low,Neutral,F,21
+12915,3,4/2/2024,4,1,False,Email,Gold,Moderate,Likely,F,3
+12916,1,27/6/2024,2,2,False,SMS,Silver,High,Likely,F,2
+12921,1,2/11/2024,3,4,False,Email,Bronze,High,Likely,M,49
+12928,1,12/12/2024,1,2,True,Email,Silver,High,Likely,F,21
+12929,2,24/10/2024,9,1,False,Chatbot,Gold,Moderate,Unlikely,F,26
+12931,3,26/9/2024,5,2,False,Email,Bronze,Low,Unlikely,F,44
+12935,2,8/12/2024,3,5,False,SMS,Bronze,Moderate,Unlikely,F,23
+12939,2,23/10/2024,4,3,False,Social Media,Silver,Low,Unlikely,F,19
+12942,3,25/12/2024,3,1,False,Email,None,Moderate,Unlikely,F,4
+12944,2,21/9/2024,4,4,False,Email,None,Moderate,Likely,F,43
+12947,4,11/2/2024,6,0,False,Email,Silver,High,Likely,M,48
+12951,4,1/10/2024,4,2,False,Email,None,Moderate,Likely,F,18
+12956,1,1/1/2025,2,2,True,Email,None,High,Likely,F,48
+12957,2,6/6/2024,6,2,False,Email,None,High,Likely,F,44
+12963,1,19/12/2024,3,5,False,Email,None,Moderate,Likely,M,9
+12967,2,5/9/2024,6,1,False,Email,Gold,Moderate,Likely,F,34
+12970,3,11/5/2024,2,1,False,Chatbot,Bronze,Moderate,Unlikely,F,2
+12971,2,30/3/2024,8,1,True,Chatbot,Bronze,High,Very Likely,F,43
+12980,4,25/9/2024,3,1,False,Chatbot,Gold,Moderate,Likely,M,23
+12989,3,12/7/2024,6,2,False,SMS,Gold,Low,Unlikely,F,5
+12990,4,28/12/2024,4,3,False,Email,Bronze,Low,Unlikely,F,47
+12997,1,24/4/2024,5,3,False,Chatbot,Gold,High,Very Likely,F,45
+13000,1,30/4/2024,6,2,False,Email,Bronze,Moderate,Unlikely,M,32
+13001,1,7/12/2024,1,1,True,Email,None,High,Likely,F,45
+13002,2,6/11/2024,5,1,True,Chatbot,None,Low,Unlikely,F,44
+13004,2,7/10/2024,7,4,True,Email,Bronze,High,Very Likely,F,37
+13008,5,3/12/2024,6,2,False,Email,Bronze,Moderate,Likely,F,48
+13011,5,25/10/2024,6,1,False,Chatbot,Bronze,Moderate,Likely,F,18
+13013,2,11/3/2024,7,1,False,Social Media,Bronze,High,Very Likely,M,13
+13021,2,26/6/2024,4,5,False,Email,None,Moderate,Likely,M,29
+13027,3,3/11/2024,3,1,False,Email,None,Low,Unlikely,F,15
+13030,2,14/4/2024,8,2,False,SMS,Bronze,High,Very Likely,M,39
+13033,1,12/8/2024,4,4,False,Chatbot,None,Moderate,Likely,M,50
+13034,2,7/3/2024,5,2,False,Email,Bronze,Moderate,Unlikely,F,40
+13047,5,21/4/2024,5,2,True,SMS,Bronze,High,Very Likely,M,43
+13048,5,30/10/2024,3,1,False,Social Media,Bronze,High,Very Likely,M,45
+13049,3,11/11/2024,9,1,False,Email,None,Moderate,Likely,M,3
+13050,4,31/8/2024,8,1,False,Social Media,Bronze,High,Very Likely,F,10
+13064,1,9/12/2024,6,2,False,Social Media,Silver,Low,Neutral,M,15
+13065,3,13/11/2024,3,2,False,Email,Gold,Moderate,Likely,F,32
+13068,4,19/11/2024,5,0,False,Chatbot,Silver,Low,Unlikely,F,47
+13069,3,6/9/2024,5,3,False,Email,Bronze,High,Likely,F,38
+13077,3,25/8/2024,5,3,False,Chatbot,None,Moderate,Unlikely,F,45
+13078,3,3/4/2024,3,1,False,Chatbot,Bronze,High,Likely,F,28
+13081,3,20/4/2024,7,3,True,Email,Gold,High,Likely,F,5
+13082,5,28/8/2024,3,4,False,Chatbot,None,Moderate,Likely,M,45
+13089,3,12/12/2024,0,4,True,Chatbot,None,High,Likely,F,25
+13090,5,16/3/2024,6,2,False,Email,None,Moderate,Likely,M,4
+13092,2,12/8/2024,6,1,False,Email,Silver,Moderate,Unlikely,F,2
+13093,2,10/11/2024,4,0,False,Email,Bronze,High,Very Likely,M,35
+13094,5,30/4/2024,5,3,False,SMS,None,Low,Neutral,M,10
+13097,3,23/12/2024,9,2,False,Social Media,Silver,High,Likely,M,33
+13098,3,5/4/2024,5,0,True,Chatbot,Bronze,High,Likely,F,5
+13102,3,3/10/2024,4,5,True,Email,None,High,Very Likely,F,10
+13104,6,29/10/2024,3,4,False,SMS,None,Low,Neutral,F,20
+13107,6,25/12/2024,6,1,False,Email,None,High,Likely,F,20
+13108,3,30/11/2024,2,4,True,Email,Bronze,Low,Unlikely,F,45
+13110,5,11/11/2024,6,3,True,Email,None,High,Likely,F,36
+13113,2,2/12/2024,6,4,False,Email,Bronze,High,Likely,M,44
+13115,4,3/9/2024,6,3,False,SMS,Silver,Low,Unlikely,F,26
+13117,3,19/10/2024,5,1,False,Social Media,Bronze,High,Likely,M,30
+13124,2,29/12/2024,3,3,False,SMS,None,High,Very Likely,M,4
+13126,4,14/8/2024,4,2,True,SMS,Bronze,High,Very Likely,F,37
+13136,1,31/5/2024,4,2,False,Email,Silver,Low,Unlikely,F,48
+13137,3,26/12/2024,5,2,True,Social Media,None,High,Very Likely,M,37
+13138,1,27/6/2024,4,1,False,Chatbot,None,Moderate,Likely,F,21
+13140,3,10/11/2024,4,5,False,Chatbot,Bronze,Moderate,Likely,M,34
+13141,3,10/12/2024,5,4,False,Email,Bronze,High,Likely,F,25
+13144,1,30/10/2024,5,1,False,SMS,None,Low,Unlikely,M,38
+13145,2,24/3/2024,5,3,False,SMS,Silver,Low,Neutral,F,4
+13148,4,1/6/2024,7,3,False,Email,Bronze,High,Very Likely,M,16
+13155,2,18/11/2024,3,4,False,SMS,Gold,High,Likely,F,8
+13158,5,21/10/2024,2,1,False,Social Media,None,High,Likely,F,47
+13161,0,,4,1,False,Email,Silver,Low,Neutral,F,4
+13162,3,13/8/2024,4,2,False,Email,None,High,Likely,F,14
+13165,2,28/7/2024,6,1,True,Chatbot,Bronze,Moderate,Unlikely,F,31
+13168,0,,3,1,False,Email,Bronze,High,Very Likely,F,24
+13173,2,16/8/2024,5,0,False,SMS,None,High,Likely,F,8
+13174,2,29/10/2024,5,2,False,SMS,Silver,High,Very Likely,M,25
+13178,4,27/9/2024,5,2,False,Email,None,High,Very Likely,F,9
+13183,2,7/9/2024,5,1,False,Chatbot,Bronze,High,Likely,F,42
+13187,1,6/10/2024,3,1,False,SMS,None,High,Likely,F,50
+13198,1,10/12/2024,10,3,True,Chatbot,Silver,High,Likely,M,50
+13199,0,,5,2,False,Chatbot,None,High,Likely,M,47
+13208,2,24/12/2024,4,1,False,Chatbot,Silver,High,Very Likely,F,4
+13209,4,8/11/2024,4,1,False,Email,Silver,High,Likely,F,18
+13211,3,30/10/2024,7,1,False,Email,Silver,Low,Unlikely,F,33
+13221,5,19/9/2024,3,2,False,Email,None,High,Likely,F,35
+13225,5,6/9/2024,6,4,True,Email,Bronze,Moderate,Likely,F,50
+13230,3,1/7/2024,2,1,False,Chatbot,None,High,Likely,M,30
+13233,4,12/11/2024,4,0,True,Email,Silver,Moderate,Likely,M,30
+13238,1,31/8/2024,4,1,False,Chatbot,Silver,Low,Unlikely,M,19
+13240,3,12/5/2024,4,2,False,Email,Bronze,Moderate,Unlikely,F,24
+13246,4,25/11/2024,8,0,False,Email,Silver,High,Likely,F,25
+13253,4,3/8/2024,5,3,False,Chatbot,None,Moderate,Likely,M,38
+13255,3,30/5/2024,8,1,False,Email,Bronze,Low,Unlikely,M,15
+13263,2,19/11/2024,5,1,True,Chatbot,None,High,Very Likely,M,16
+13267,2,17/6/2024,7,7,False,Email,Gold,High,Likely,M,46
+13269,3,2/5/2024,8,1,True,Social Media,Silver,High,Very Likely,F,41
+13270,3,12/11/2024,3,1,False,SMS,Silver,Low,Unlikely,M,7
+13280,4,17/1/2024,4,0,True,Chatbot,Gold,High,Very Likely,F,43
+13284,0,,6,5,False,Email,None,Moderate,Likely,F,14
+13295,2,3/11/2024,4,1,False,Email,Gold,Low,Neutral,F,33
+13304,4,24/9/2024,4,2,False,Social Media,None,Moderate,Unlikely,M,12
+13305,2,16/5/2024,6,0,True,Chatbot,Silver,Moderate,Likely,F,38
+13309,4,23/12/2024,2,2,False,Email,Silver,High,Very Likely,M,14
+13310,3,16/10/2024,4,2,False,Email,None,High,Likely,M,15
+13313,2,18/7/2024,2,4,False,Email,None,Low,Unlikely,M,42
+13317,3,8/11/2024,8,2,True,Email,None,Moderate,Likely,F,17
+13319,7,11/9/2024,7,2,False,Chatbot,Gold,High,Likely,F,27
+13324,3,27/5/2024,2,2,False,Email,None,Moderate,Likely,F,24
+13327,5,16/9/2024,5,0,True,Email,Bronze,High,Likely,F,14
+13328,8,20/12/2024,6,5,False,SMS,Silver,Moderate,Unlikely,M,18
+13329,1,24/5/2024,7,1,False,Email,None,Moderate,Likely,M,2
+13330,2,23/12/2024,7,6,False,Chatbot,Bronze,Moderate,Unlikely,F,47
+13369,2,8/12/2024,7,3,True,Social Media,Bronze,Moderate,Likely,F,24
+13370,1,4/4/2024,6,3,True,Email,None,High,Very Likely,M,41
+13385,3,15/9/2024,5,2,True,Chatbot,Silver,High,Very Likely,F,26
+13394,4,20/12/2024,5,1,False,Email,None,High,Very Likely,M,6
+13396,1,1/11/2024,8,5,False,Email,None,High,Very Likely,M,25
+13397,7,28/8/2024,7,0,False,Email,Bronze,Low,Unlikely,M,40
+13402,6,1/2/2024,4,2,False,Email,Bronze,Moderate,Likely,M,42
+13405,2,29/12/2024,5,3,True,Email,Gold,Moderate,Unlikely,F,7
+13408,2,6/5/2024,8,1,True,Email,Silver,High,Likely,M,30
+13418,1,24/12/2024,5,2,False,Chatbot,Bronze,High,Likely,F,22
+13426,0,,2,1,True,Chatbot,None,High,Very Likely,M,38
+13448,4,16/7/2024,3,2,False,Social Media,None,High,Likely,F,41
+13451,3,21/12/2024,7,1,False,SMS,None,High,Likely,M,12
+13455,4,30/8/2024,3,1,True,Email,Bronze,High,Very Likely,F,38
+13458,5,27/8/2024,8,4,False,Email,Silver,High,Likely,F,33
+13468,1,5/7/2024,1,3,False,Email,None,High,Very Likely,M,33
+13473,1,28/11/2024,5,3,False,Email,None,Low,Unlikely,F,5
+13487,2,25/12/2024,3,1,False,SMS,Bronze,Moderate,Unlikely,M,6
+13488,6,6/8/2024,5,1,True,SMS,None,High,Likely,F,22
+13491,3,6/3/2024,5,3,False,Email,Silver,High,Very Likely,F,16
+13494,3,28/10/2024,2,5,False,Email,Bronze,High,Likely,M,33
+13495,2,1/12/2024,7,1,False,Email,Bronze,High,Likely,M,25
+13496,6,13/11/2024,2,5,True,Email,None,High,Likely,F,21
+13497,1,11/7/2024,4,1,False,Email,Gold,Moderate,Unlikely,F,22
+13502,3,1/10/2024,5,2,False,Chatbot,None,Low,Unlikely,F,32
+13506,1,26/10/2024,4,2,False,Email,Silver,High,Likely,M,30
+13520,2,13/6/2024,4,1,False,Chatbot,None,High,Very Likely,F,19
+13523,4,4/9/2024,5,2,False,Email,Silver,Moderate,Likely,F,13
+13527,5,18/9/2024,4,2,False,Email,Silver,Low,Neutral,F,44
+13531,8,14/10/2024,4,2,False,Chatbot,None,Moderate,Unlikely,F,48
+13534,2,1/8/2024,5,2,True,SMS,Silver,High,Likely,F,20
+13538,2,12/12/2024,7,3,False,Email,Bronze,Low,Unlikely,M,32
+13539,4,23/12/2024,6,0,False,Chatbot,None,Moderate,Likely,M,24
+13551,0,,6,4,False,Email,None,Low,Unlikely,F,46
+13552,4,23/12/2024,8,1,False,Email,Bronze,Low,Neutral,F,50
+13564,3,9/12/2024,5,0,False,Chatbot,Bronze,High,Very Likely,M,26
+13565,6,21/11/2024,2,1,False,Chatbot,Silver,Moderate,Unlikely,F,8
+13569,2,9/7/2024,4,0,True,Email,Silver,High,Very Likely,M,14
+13576,2,8/4/2024,6,1,True,Email,Bronze,High,Very Likely,M,23
+13579,3,18/10/2024,3,1,False,Chatbot,Silver,Low,Neutral,F,49
+13581,6,20/12/2024,3,2,False,Email,Bronze,Low,Unlikely,F,47
+13584,0,,5,2,False,Email,None,High,Very Likely,M,35
+13593,4,8/10/2024,5,0,False,SMS,Gold,High,Likely,M,28
+13599,4,14/8/2024,6,2,False,Social Media,None,High,Very Likely,F,46
+13600,3,17/4/2024,2,2,False,Email,None,Low,Neutral,F,13
+13611,4,19/5/2024,6,3,True,Chatbot,Silver,Moderate,Likely,F,5
+13614,4,22/12/2024,4,5,False,SMS,Bronze,Moderate,Likely,M,20
+13615,4,11/11/2024,3,2,False,Email,None,High,Likely,F,11
+13627,1,14/10/2024,4,1,False,Chatbot,None,Moderate,Likely,F,49
+13629,5,3/12/2024,2,2,False,Social Media,Bronze,Low,Neutral,F,22
+13634,6,9/6/2024,6,0,False,Email,Gold,High,Very Likely,M,21
+13649,0,,8,5,False,Email,Bronze,Low,Unlikely,F,34
+13652,4,18/10/2024,5,1,False,Social Media,Bronze,High,Very Likely,F,35
+13656,2,29/11/2024,6,1,False,SMS,None,High,Likely,M,44
+13659,2,22/10/2024,5,1,False,Email,None,High,Very Likely,F,8
+13668,3,30/12/2024,5,2,False,SMS,None,High,Likely,F,15
+13672,1,27/9/2024,6,1,False,Chatbot,None,Low,Unlikely,F,45
+13680,1,19/4/2024,4,3,True,Chatbot,Bronze,High,Likely,M,34
+13693,5,15/10/2024,4,4,False,Social Media,None,Low,Unlikely,M,3
+13694,0,,5,2,True,Email,None,High,Very Likely,F,44
+13700,2,29/10/2024,5,2,False,Email,Silver,High,Likely,M,42
+13705,3,17/9/2024,4,2,False,SMS,Silver,Moderate,Likely,F,39
+13707,2,14/12/2024,4,2,True,Email,Gold,High,Very Likely,F,28
+13709,2,31/12/2024,7,1,False,SMS,Bronze,High,Very Likely,F,22
+13715,1,28/5/2024,5,2,False,Email,None,High,Likely,M,23
+13725,1,29/12/2024,4,2,False,Email,Silver,High,Very Likely,F,48
+13728,3,19/12/2024,3,2,False,Email,None,Low,Unlikely,F,2
+13742,1,20/10/2024,9,5,False,SMS,Bronze,High,Very Likely,F,6
+13754,2,23/6/2024,6,2,False,Chatbot,Silver,Low,Neutral,M,7
+13756,0,,6,3,False,Email,Silver,Moderate,Unlikely,F,6
+13758,1,25/8/2024,4,0,False,Email,Gold,High,Likely,M,46
+13764,7,14/12/2024,7,2,True,Email,Silver,High,Likely,M,14
+13767,6,11/10/2024,6,2,False,Chatbot,Bronze,High,Very Likely,F,29
+13769,1,4/11/2024,6,1,False,Email,None,High,Likely,F,20
+13777,1,1/8/2024,2,2,False,SMS,Gold,High,Very Likely,F,7
+13782,4,29/10/2024,6,1,True,SMS,None,High,Very Likely,M,17
+13784,5,20/11/2024,4,2,False,Email,Gold,Moderate,Likely,M,30
+13786,5,25/9/2024,7,4,False,Chatbot,None,Moderate,Likely,M,21
+13787,0,,8,3,False,Email,None,Moderate,Likely,F,35
+13798,5,21/6/2024,6,1,False,SMS,Silver,High,Very Likely,M,37
+13800,3,31/12/2024,3,3,False,Email,None,High,Very Likely,F,27
+13802,7,2/11/2024,4,3,False,Email,Silver,High,Very Likely,F,40
+13807,3,19/10/2024,5,4,False,SMS,None,Moderate,Unlikely,F,33
+13815,3,11/12/2024,3,3,False,Email,Silver,High,Likely,F,33
+13817,3,18/11/2024,5,1,False,Chatbot,Bronze,Low,Unlikely,M,14
+13819,4,16/12/2024,8,2,True,Chatbot,Bronze,High,Likely,F,7
+13824,4,30/12/2024,8,2,False,Chatbot,None,High,Likely,M,42
+13829,3,20/12/2024,5,2,False,Email,None,Low,Unlikely,F,38
+13831,3,18/3/2024,5,3,False,SMS,Silver,Low,Unlikely,F,35
+13837,3,20/12/2024,8,2,False,SMS,None,Moderate,Likely,F,5
+13838,2,29/11/2024,5,0,False,Email,None,High,Very Likely,F,5
+13842,4,10/4/2024,4,1,True,SMS,Bronze,High,Likely,F,5
+13846,1,12/3/2024,3,1,False,Social Media,Bronze,High,Very Likely,F,4
+13848,0,,7,1,False,Email,None,Low,Neutral,M,35
+13854,7,11/8/2024,4,1,True,Social Media,None,High,Very Likely,F,44
+13859,1,16/12/2024,4,3,True,Email,None,Moderate,Likely,M,45
+13862,1,16/12/2024,5,0,True,Email,Silver,High,Likely,M,32
+13869,1,30/8/2024,3,2,False,Email,None,High,Very Likely,F,6
+13871,3,22/12/2024,5,1,True,SMS,Gold,High,Likely,F,17
+13873,1,19/12/2024,4,2,False,Email,None,Moderate,Likely,M,24
+13874,3,30/9/2024,6,1,False,Chatbot,None,Moderate,Unlikely,F,39
+13880,6,28/11/2024,5,1,False,Chatbot,Bronze,Moderate,Likely,F,40
+13881,1,23/8/2024,5,1,False,SMS,None,Moderate,Unlikely,F,22
+13883,2,20/10/2024,2,2,False,Email,Bronze,Low,Unlikely,M,36
+13890,3,15/4/2024,5,2,False,Social Media,Silver,High,Likely,F,31
+13894,3,20/12/2024,3,2,False,Chatbot,None,Moderate,Likely,F,16
+13898,7,30/10/2024,3,2,False,Email,Silver,Low,Unlikely,F,23
+13901,5,29/11/2024,5,1,False,Chatbot,None,High,Likely,F,10
+13911,2,28/12/2024,4,1,False,SMS,None,High,Likely,M,30
+13922,1,16/11/2024,3,2,True,SMS,None,Low,Neutral,F,11
+13929,7,23/12/2024,4,2,False,Email,Gold,Low,Unlikely,F,21
+13939,5,16/10/2024,2,3,False,Email,None,High,Likely,M,36
+13941,3,27/12/2024,6,2,False,Email,Silver,Moderate,Likely,F,38
+13948,2,29/7/2024,7,1,False,Email,Bronze,Low,Unlikely,F,9
+13958,3,17/10/2024,3,2,False,SMS,None,Moderate,Unlikely,F,22
+13959,2,26/12/2024,5,2,True,Social Media,Bronze,High,Likely,M,38
+13963,4,19/10/2024,4,2,False,Social Media,Silver,High,Likely,F,40
+13969,3,6/10/2024,6,2,False,SMS,Silver,High,Likely,F,15
+13982,3,14/5/2024,6,2,False,SMS,Bronze,High,Likely,F,13
+13983,6,18/12/2024,2,1,False,Email,Silver,High,Likely,M,30
+13984,1,14/8/2024,2,0,False,SMS,None,Low,Unlikely,F,34
+13993,4,27/10/2024,5,1,False,Email,Gold,Moderate,Likely,M,49
+13999,2,12/12/2024,2,5,False,Email,Silver,High,Likely,F,48
+14001,2,6/12/2024,7,4,False,SMS,Silver,Moderate,Likely,F,10
+14006,3,30/4/2024,4,3,False,Email,Silver,Moderate,Unlikely,F,3
+14016,3,15/12/2024,5,2,True,Email,Bronze,High,Likely,M,41
+14030,1,9/12/2024,7,2,False,Chatbot,Bronze,High,Very Likely,F,5
+14031,3,19/8/2024,5,2,False,Email,Bronze,High,Very Likely,F,17
+14032,2,9/4/2024,7,2,True,Email,None,High,Likely,M,50
+14037,4,27/11/2024,1,0,True,Email,Bronze,High,Likely,M,24
+14040,6,25/10/2024,3,1,False,Email,None,High,Likely,F,10
+14044,5,30/12/2024,4,1,False,Email,Bronze,High,Very Likely,M,49
+14045,5,13/8/2024,9,0,False,Chatbot,None,Low,Unlikely,F,14
+14047,3,1/3/2024,4,4,False,Email,None,Moderate,Likely,F,10
+14049,3,30/10/2024,5,2,False,Chatbot,None,High,Very Likely,M,45
+14051,0,,6,0,True,Email,Silver,High,Very Likely,M,6
+14057,3,15/7/2024,6,2,True,Email,None,High,Very Likely,M,39
+14060,4,12/5/2024,3,0,True,SMS,Silver,High,Likely,F,22
+14062,6,19/10/2024,3,3,True,SMS,None,High,Very Likely,F,18
+14068,2,17/12/2024,5,2,True,SMS,Bronze,High,Very Likely,M,32
+14078,1,27/9/2024,7,1,False,Social Media,None,Moderate,Likely,F,7
+14081,2,17/3/2024,6,1,False,Email,None,High,Very Likely,F,49
+14082,2,25/9/2024,6,3,False,Email,Bronze,High,Very Likely,F,31
+14083,1,15/11/2024,4,3,False,Chatbot,Bronze,High,Likely,M,41
+14085,2,16/8/2024,7,3,False,Email,None,High,Likely,F,5
+14088,5,16/8/2024,4,0,False,Email,Bronze,High,Very Likely,M,39
+14090,6,10/10/2024,8,0,False,Email,Silver,Low,Unlikely,F,32
+14092,4,5/12/2024,5,3,False,SMS,None,High,Likely,F,41
+14099,2,11/8/2024,5,3,True,Email,None,High,Likely,M,32
+14101,5,19/12/2024,4,1,False,Email,Bronze,Low,Neutral,M,25
+14107,4,18/8/2024,5,4,False,Email,None,Moderate,Unlikely,M,11
+14113,3,17/7/2024,2,0,False,SMS,Gold,High,Very Likely,M,23
+14114,4,29/11/2024,3,1,False,Email,Bronze,Moderate,Unlikely,M,18
+14127,0,,7,3,False,Email,Bronze,Moderate,Unlikely,F,17
+14130,2,1/11/2024,5,2,False,SMS,Bronze,High,Likely,F,50
+14133,2,5/12/2024,6,2,True,Social Media,Bronze,High,Likely,F,32
+14135,3,9/11/2024,7,1,False,SMS,None,High,Very Likely,F,21
+14142,5,3/4/2024,2,4,True,Chatbot,Gold,High,Very Likely,F,21
+14146,3,10/10/2024,7,2,False,Email,Bronze,High,Very Likely,M,29
+14150,5,23/3/2024,5,2,True,Email,None,Moderate,Unlikely,M,48
+14156,2,28/5/2024,5,1,False,Email,Bronze,High,Likely,F,5
+14159,4,12/11/2024,7,4,True,Chatbot,None,High,Likely,F,13
+14161,5,5/8/2024,6,5,False,Email,None,High,Likely,F,41
+14167,2,7/11/2024,5,2,True,Chatbot,Bronze,Moderate,Likely,M,29
+14175,1,20/8/2024,0,2,True,Social Media,Bronze,Moderate,Likely,M,37
+14176,0,,7,0,False,Email,Bronze,High,Likely,F,13
+14180,4,22/11/2024,5,3,True,Email,None,High,Likely,F,11
+14188,3,30/12/2024,5,2,True,Email,Bronze,Moderate,Likely,F,50
+14189,4,14/6/2024,6,5,True,Email,None,High,Likely,F,7
+14194,1,27/12/2024,8,6,False,Email,Bronze,High,Very Likely,M,19
+14201,1,11/8/2024,4,3,False,Chatbot,Bronze,Low,Neutral,F,12
+14205,2,17/6/2024,6,3,True,Email,Bronze,Moderate,Likely,M,26
+14206,2,3/6/2024,4,3,True,Email,Silver,Low,Unlikely,F,24
+14209,1,19/9/2024,1,2,False,Email,Silver,Moderate,Likely,F,29
+14210,2,6/5/2024,3,3,False,Social Media,Gold,High,Likely,F,18
+14213,5,8/6/2024,4,2,False,SMS,Gold,Low,Unlikely,F,25
+14215,2,7/8/2024,5,0,False,Social Media,Silver,High,Very Likely,F,29
+14217,3,27/10/2024,4,2,False,Social Media,Gold,High,Likely,F,10
+14220,4,18/12/2024,5,2,False,Email,Silver,Moderate,Unlikely,F,19
+14221,2,25/12/2024,2,2,False,Email,Silver,Moderate,Likely,F,39
+14224,2,30/9/2024,2,2,False,Email,None,High,Very Likely,F,3
+14229,2,14/9/2024,5,1,False,Email,None,Moderate,Unlikely,M,29
+14233,5,1/11/2024,5,2,False,Chatbot,Silver,High,Likely,F,2
+14236,3,3/3/2024,5,5,False,Email,Bronze,Low,Unlikely,F,18
+14237,2,5/9/2024,6,1,False,Email,Silver,High,Likely,F,39
+14238,4,27/12/2024,4,0,False,SMS,None,Moderate,Likely,M,21
+14239,7,11/12/2024,9,2,False,SMS,None,Moderate,Likely,F,46
+14242,1,27/9/2024,7,0,True,SMS,Silver,Low,Unlikely,F,26
+14243,7,6/7/2024,2,3,False,Email,Gold,High,Likely,M,46
+14248,3,27/12/2024,3,2,False,Chatbot,None,Low,Unlikely,M,34
+14256,1,18/9/2024,4,3,False,SMS,Silver,High,Likely,F,7
+14257,2,23/11/2024,6,4,False,Email,Silver,High,Likely,F,38
+14258,1,4/12/2024,7,1,True,Chatbot,None,Moderate,Unlikely,F,31
+14264,4,29/4/2024,4,1,True,Social Media,None,Low,Unlikely,M,16
+14270,3,8/10/2024,5,1,False,Email,None,High,Likely,M,6
+14282,2,31/3/2024,5,2,False,Email,None,High,Very Likely,F,37
+14290,1,26/12/2024,3,1,False,Email,Bronze,High,Very Likely,F,17
+14292,2,6/12/2024,3,3,True,Email,None,Moderate,Likely,M,22
+14293,3,15/10/2024,7,4,False,Chatbot,None,Moderate,Unlikely,F,18
+14295,3,27/8/2024,3,2,False,Email,Silver,Low,Neutral,F,7
+14298,1,4/8/2024,8,3,False,Chatbot,Bronze,High,Very Likely,M,41
+14299,7,17/11/2024,8,1,False,SMS,Bronze,High,Likely,F,18
+14307,2,5/5/2024,5,1,False,SMS,None,High,Very Likely,F,28
+14309,3,28/9/2024,5,4,False,Email,Silver,Moderate,Likely,F,49
+14312,4,6/8/2024,3,3,False,Email,Silver,Moderate,Likely,M,27
+14320,3,17/4/2024,3,1,True,Email,Bronze,High,Likely,F,29
+14321,6,17/11/2024,6,3,False,Email,Gold,High,Likely,F,24
+14329,5,28/7/2024,5,2,False,Email,Silver,High,Likely,F,22
+14334,2,13/7/2024,4,2,False,Chatbot,Silver,High,Likely,M,41
+14341,1,22/12/2024,6,4,False,Email,Silver,Moderate,Likely,F,3
+14344,5,4/9/2024,3,2,False,Chatbot,None,High,Very Likely,F,15
+14355,3,10/9/2024,12,2,False,Email,None,Moderate,Unlikely,F,7
+14368,5,16/12/2024,1,4,False,Chatbot,None,Moderate,Likely,F,4
+14373,1,30/8/2024,6,4,False,Social Media,None,Low,Unlikely,F,40
+14388,3,31/3/2024,1,2,False,Email,None,High,Likely,F,6
+14389,3,27/11/2024,6,1,True,Chatbot,Silver,Low,Unlikely,M,38
+14390,3,14/2/2024,1,1,False,SMS,None,High,Very Likely,M,37
+14395,2,28/2/2024,4,2,False,Chatbot,Gold,High,Likely,M,4
+14396,1,12/9/2024,3,2,True,SMS,Bronze,High,Likely,M,9
+14401,4,21/9/2024,3,2,True,Email,None,High,Likely,F,20
+14404,1,5/7/2024,5,2,False,Email,Bronze,High,Likely,M,32
+14409,7,19/6/2024,5,2,False,Email,None,High,Likely,M,15
+14410,2,1/1/2025,5,2,False,SMS,Gold,Moderate,Unlikely,F,45
+14411,3,27/12/2024,9,2,True,Social Media,Silver,Moderate,Likely,F,17
+14413,3,20/12/2024,3,2,True,Chatbot,None,Moderate,Unlikely,F,34
+14414,6,11/12/2024,3,6,False,Email,Gold,Moderate,Unlikely,F,7
+14415,2,10/10/2024,6,2,True,Chatbot,Silver,High,Likely,M,47
+14419,1,22/9/2024,6,1,True,Chatbot,None,Moderate,Unlikely,M,20
+14426,5,9/12/2024,3,3,True,Email,Bronze,High,Very Likely,F,13
+14428,2,14/10/2024,7,1,True,Email,Bronze,Moderate,Unlikely,F,23
+14437,6,29/12/2024,4,5,True,Email,None,Moderate,Likely,F,3
+14438,3,30/12/2024,1,2,False,Chatbot,Silver,Moderate,Unlikely,F,41
+14439,4,17/10/2024,7,1,True,Chatbot,None,High,Likely,F,48
+14440,2,13/5/2024,7,2,False,Email,Bronze,High,Very Likely,F,10
+14442,0,,2,1,False,Email,None,High,Likely,F,44
+14443,3,29/2/2024,5,0,False,Chatbot,Gold,High,Very Likely,F,41
+14448,5,24/4/2024,6,5,False,Social Media,Silver,High,Likely,F,42
+14449,3,21/3/2024,9,3,False,Chatbot,None,High,Likely,M,39
+14450,2,26/10/2024,3,1,False,SMS,None,Low,Neutral,F,29
+14457,3,16/12/2024,4,4,False,Email,None,Low,Unlikely,F,4
+14460,3,14/12/2024,10,0,False,SMS,Silver,Low,Unlikely,F,38
+14462,2,20/11/2024,4,2,False,Email,None,High,Very Likely,F,42
+14466,2,27/8/2024,4,0,False,Chatbot,Silver,High,Very Likely,F,18
+14467,3,12/12/2024,4,4,True,Email,Gold,Moderate,Unlikely,F,34
+14472,2,20/1/2024,7,4,False,Chatbot,Bronze,High,Likely,F,10
+14479,1,25/12/2024,8,2,False,Email,None,Moderate,Unlikely,F,17
+14487,2,15/10/2024,6,2,False,Chatbot,None,Moderate,Unlikely,F,41
+14491,4,10/3/2024,6,3,True,Email,Bronze,Moderate,Likely,F,6
+14496,4,19/10/2024,3,1,False,Email,Bronze,Moderate,Likely,F,47
+14497,4,26/12/2024,5,4,False,SMS,Bronze,High,Likely,M,42
+14498,3,18/7/2024,6,0,True,Email,Bronze,Moderate,Likely,F,25
+14501,3,15/12/2024,2,2,False,Social Media,None,Moderate,Unlikely,F,20
+14502,1,11/11/2024,8,0,False,SMS,Silver,High,Likely,M,22
+14505,4,15/11/2024,5,0,False,SMS,None,High,Very Likely,F,8
+14506,2,25/11/2024,4,6,False,Chatbot,Bronze,High,Likely,F,34
+14514,2,8/12/2024,4,2,False,Chatbot,Silver,High,Likely,F,29
+14524,2,26/9/2024,2,1,False,SMS,None,Moderate,Likely,F,15
+14525,6,6/10/2024,5,2,False,Social Media,Silver,High,Very Likely,F,48
+14527,1,1/5/2024,5,4,False,Email,Silver,High,Likely,M,43
+14532,2,20/12/2024,4,1,False,Email,Bronze,High,Likely,F,44
+14533,2,31/10/2024,2,5,False,SMS,None,Moderate,Likely,F,30
+14534,2,20/11/2024,4,1,False,Email,None,High,Likely,M,14
+14540,5,31/12/2024,4,0,True,Email,None,Moderate,Likely,F,12
+14541,3,20/10/2024,1,1,True,Email,None,High,Likely,F,24
+14543,1,10/5/2024,8,1,False,Email,Gold,Moderate,Unlikely,M,11
+14544,3,19/10/2024,4,0,False,Chatbot,Bronze,High,Very Likely,M,6
+14548,5,18/11/2024,10,4,False,SMS,None,Low,Neutral,F,48
+14549,4,22/10/2024,6,1,True,Social Media,Gold,High,Very Likely,F,22
+14553,4,22/7/2024,3,2,False,Chatbot,Silver,Moderate,Likely,F,25
+14560,5,3/11/2024,6,4,False,Email,None,High,Likely,M,40
+14565,2,14/9/2024,4,2,False,Email,None,High,Likely,F,39
+14572,3,7/11/2024,3,4,True,Email,None,High,Likely,F,43
+14573,2,21/12/2024,2,2,False,Chatbot,Gold,High,Very Likely,M,40
+14576,8,22/4/2024,3,4,True,Email,Bronze,Low,Neutral,F,26
+14577,3,10/4/2024,5,4,True,Email,Silver,High,Very Likely,M,36
+14587,4,7/9/2024,3,3,False,Social Media,None,High,Likely,F,30
+14589,5,12/10/2024,4,3,True,SMS,Silver,Low,Unlikely,F,48
+14594,4,19/11/2024,3,1,True,Email,None,High,Very Likely,M,5
+14595,3,30/11/2024,6,1,False,Email,Gold,Moderate,Likely,F,33
+14606,3,3/11/2024,5,3,True,Chatbot,Gold,High,Very Likely,F,33
+14618,1,20/10/2024,5,2,False,Chatbot,None,Low,Neutral,M,13
+14621,4,21/8/2024,4,3,True,Email,Silver,High,Likely,F,41
+14625,4,13/2/2024,4,1,False,Email,Silver,High,Likely,F,14
+14627,3,1/11/2024,6,2,False,Chatbot,Gold,Moderate,Unlikely,F,46
+14639,2,27/12/2024,4,2,True,Chatbot,None,High,Likely,M,46
+14643,5,27/8/2024,6,2,False,Chatbot,Bronze,Low,Unlikely,F,4
+14646,1,23/11/2024,4,1,False,SMS,Silver,High,Likely,M,45
+14653,7,20/8/2024,5,2,True,Social Media,Silver,High,Likely,M,2
+14657,3,12/11/2024,5,2,False,Email,None,High,Very Likely,M,2
+14659,4,3/12/2024,4,1,True,Email,Silver,High,Very Likely,F,42
+14662,2,10/12/2024,5,2,True,Chatbot,None,High,Very Likely,M,36
+14665,0,,3,4,True,SMS,Silver,Moderate,Unlikely,F,4
+14667,4,2/7/2024,4,3,False,Chatbot,None,High,Likely,F,30
+14669,3,29/9/2024,6,0,False,Email,None,High,Likely,F,39
+14672,4,9/9/2024,6,4,False,Chatbot,Bronze,High,Very Likely,M,8
+14673,3,30/8/2024,1,2,False,Email,Bronze,High,Likely,M,9
+14679,1,19/10/2024,3,2,False,SMS,Bronze,Low,Unlikely,M,26
+14680,0,,4,2,False,Email,Bronze,High,Very Likely,F,37
+14684,3,3/11/2024,6,3,False,SMS,None,High,Likely,F,4
+14688,2,14/7/2024,4,0,False,Chatbot,None,High,Very Likely,F,46
+14692,6,29/11/2024,3,1,True,Email,Silver,High,Likely,F,16
+14696,2,15/6/2024,14,1,False,Email,None,High,Likely,M,48
+14701,4,3/12/2024,5,1,False,SMS,Bronze,High,Likely,M,43
+14702,3,22/9/2024,4,2,False,Chatbot,Bronze,High,Very Likely,F,50
+14708,7,29/8/2024,5,1,False,Email,Gold,High,Very Likely,F,16
+14709,5,23/9/2024,5,1,False,Email,Silver,High,Likely,M,45
+14713,4,6/7/2024,7,1,False,Email,None,High,Likely,F,42
+14715,1,3/9/2024,7,3,False,Social Media,Silver,Moderate,Likely,F,2
+14723,6,5/8/2024,7,0,False,Email,Gold,High,Very Likely,M,4
+14729,1,5/10/2024,2,1,True,Email,Bronze,High,Very Likely,M,43
+14732,2,8/10/2024,5,1,False,Chatbot,Gold,Moderate,Likely,F,33
+14733,1,16/12/2024,3,3,False,SMS,Bronze,High,Likely,M,30
+14735,3,15/11/2024,7,4,False,Email,Bronze,High,Likely,M,46
+14737,2,21/12/2024,2,1,False,Social Media,None,Low,Unlikely,F,21
+14738,1,30/12/2024,6,2,False,SMS,Bronze,Moderate,Likely,M,13
+14739,0,,4,4,True,SMS,None,High,Very Likely,F,27
+14741,1,16/11/2024,8,2,False,Email,None,Moderate,Likely,M,32
+14744,1,8/6/2024,5,0,False,Chatbot,None,Moderate,Likely,F,31
+14748,5,23/8/2024,1,0,False,Email,None,High,Likely,F,31
+14755,2,8/10/2024,2,2,False,Email,None,High,Likely,F,50
+14761,6,24/12/2024,3,4,True,Email,Bronze,Moderate,Likely,F,17
+14766,2,13/9/2024,6,0,False,Chatbot,None,Low,Unlikely,M,24
+14769,5,23/11/2024,8,0,False,SMS,Gold,High,Very Likely,F,26
+14770,2,25/11/2024,4,0,False,SMS,None,High,Very Likely,M,39
+14775,1,4/3/2024,3,2,False,Email,Bronze,High,Very Likely,F,25
+14776,1,11/12/2024,6,1,False,SMS,None,High,Very Likely,F,42
+14778,2,28/12/2024,6,3,False,Chatbot,None,High,Very Likely,M,26
+14779,3,5/12/2024,8,1,False,Email,None,High,Very Likely,M,17
+14782,2,28/12/2024,6,3,False,Chatbot,Bronze,Moderate,Unlikely,M,12
+14784,1,31/12/2024,6,2,False,Email,Silver,Low,Unlikely,F,25
+14794,5,30/12/2024,5,1,False,Chatbot,None,Moderate,Likely,F,31
+14796,5,4/4/2024,4,2,False,Email,None,High,Likely,F,3
+14800,2,18/6/2024,5,2,True,SMS,None,High,Very Likely,M,21
+14805,1,27/11/2024,5,1,False,Social Media,Silver,High,Very Likely,M,20
+14810,3,27/10/2024,6,3,True,Social Media,Silver,High,Very Likely,M,21
+14813,0,,11,1,True,Email,None,High,Likely,F,32
+14821,2,29/10/2024,8,1,False,Email,None,Low,Unlikely,M,41
+14825,6,25/11/2024,7,1,False,Email,Gold,High,Likely,F,34
+14828,7,20/7/2024,7,0,False,Chatbot,None,Moderate,Likely,F,25
+14829,3,27/9/2024,4,2,True,SMS,Bronze,High,Likely,M,15
+14841,3,4/8/2024,8,2,False,Email,None,Moderate,Likely,F,50
+14842,3,31/12/2024,6,1,False,Email,Bronze,Low,Unlikely,F,14
+14849,1,23/5/2024,2,2,False,Social Media,Gold,High,Likely,F,45
+14850,3,8/10/2024,4,0,False,SMS,Gold,High,Likely,F,21
+14866,4,31/12/2024,0,3,False,Email,Silver,Low,Unlikely,F,43
+14867,4,6/8/2024,6,2,True,Email,Bronze,High,Very Likely,F,50
+14871,1,18/9/2024,0,1,False,Email,Bronze,High,Very Likely,M,27
+14878,3,23/10/2024,7,3,False,SMS,None,Moderate,Unlikely,M,12
+14889,0,,9,1,False,Social Media,Gold,Moderate,Unlikely,M,6
+14895,2,11/10/2024,7,2,True,Chatbot,Silver,Low,Unlikely,M,42
+14896,4,25/7/2024,2,2,False,Email,Bronze,High,Very Likely,F,40
+14898,6,29/7/2024,4,0,False,Chatbot,None,Moderate,Unlikely,F,25
+14901,3,13/3/2024,8,6,True,Email,Bronze,High,Likely,F,4
+14907,2,29/5/2024,5,2,False,Email,Gold,High,Likely,M,46
+14911,4,16/5/2024,5,0,False,Social Media,Bronze,High,Likely,F,34
+14913,2,4/11/2024,6,3,False,Email,None,Moderate,Unlikely,M,4
+14916,4,22/10/2024,2,1,False,Email,None,Moderate,Unlikely,F,42
+14932,2,27/8/2024,4,1,True,Social Media,None,Moderate,Likely,M,35
+14952,6,11/11/2024,7,2,False,Email,Gold,Moderate,Likely,F,28
+14961,2,14/8/2024,3,2,False,Chatbot,Gold,High,Likely,M,34
+14970,0,,6,1,False,Social Media,Gold,Moderate,Likely,F,46
+14976,5,24/9/2024,2,3,False,SMS,Silver,Moderate,Likely,M,17
+14978,3,14/12/2024,8,0,True,Email,Bronze,High,Very Likely,M,36
+14985,2,12/9/2024,10,4,False,Email,Bronze,High,Likely,F,4
+15002,5,19/6/2024,5,0,False,Email,Bronze,High,Very Likely,M,41
+15005,4,27/9/2024,4,4,True,Email,Silver,High,Very Likely,F,30
+15012,4,2/11/2024,4,0,False,Chatbot,Bronze,High,Likely,F,42
+15018,7,3/10/2024,8,0,False,Email,Bronze,Low,Neutral,F,22
+15021,2,2/7/2024,9,1,False,Email,None,High,Likely,F,35
+15023,2,7/5/2024,7,2,False,SMS,None,High,Very Likely,F,40
+15024,5,17/12/2024,7,2,False,SMS,Silver,High,Likely,F,9
+15028,4,6/10/2024,3,3,False,Chatbot,Gold,Moderate,Unlikely,F,8
+15032,3,16/6/2024,8,3,True,Email,Bronze,High,Likely,F,4
+15033,2,22/4/2024,7,3,False,Chatbot,None,High,Likely,M,10
+15034,4,23/8/2024,2,0,True,SMS,Gold,High,Likely,M,2
+15038,4,20/12/2024,5,1,False,Email,Silver,High,Likely,F,37
+15039,5,28/8/2024,7,1,True,Email,Bronze,High,Very Likely,F,19
+15044,1,30/12/2024,6,1,True,Email,Bronze,High,Likely,F,31
+15046,2,14/7/2024,1,1,True,SMS,Bronze,High,Likely,F,4
+15048,1,6/8/2024,3,1,False,Email,Bronze,Moderate,Likely,M,17
+15052,4,20/12/2024,4,3,False,Social Media,Silver,High,Likely,F,33
+15057,1,18/12/2024,4,2,False,SMS,None,High,Likely,M,12
+15058,3,9/5/2024,3,5,True,Social Media,None,High,Likely,M,8
+15059,1,13/7/2024,7,1,False,Email,None,High,Likely,F,20
+15061,2,26/2/2024,9,2,False,Email,None,High,Likely,M,7
+15062,5,22/12/2024,4,1,False,Email,None,Moderate,Likely,F,22
+15070,4,24/1/2024,3,0,False,Email,None,Low,Unlikely,F,39
+15078,3,29/6/2024,4,2,False,Chatbot,None,High,Likely,F,6
+15079,3,20/11/2024,4,1,False,Email,None,High,Likely,F,45
+15081,5,27/6/2024,6,1,True,Email,None,Moderate,Unlikely,M,24
+15090,3,30/12/2024,3,2,True,Email,None,High,Likely,F,17
+15093,2,22/5/2024,10,2,False,Email,Bronze,High,Likely,M,46
+15100,1,28/12/2024,5,2,False,Chatbot,Bronze,Moderate,Likely,M,49
+15101,2,12/4/2024,5,4,True,SMS,None,Moderate,Unlikely,F,40
+15107,1,30/3/2024,3,1,False,Chatbot,Bronze,Moderate,Likely,F,20
+15110,2,21/10/2024,2,1,False,Email,Gold,Moderate,Unlikely,F,8
+15111,1,12/4/2024,7,3,False,Social Media,Gold,Moderate,Likely,M,9
+15139,3,2/11/2024,5,3,False,Chatbot,None,Moderate,Likely,M,16
+15144,3,8/12/2024,4,2,True,Email,Silver,Moderate,Likely,F,35
+15157,6,5/9/2024,6,2,False,Email,None,High,Very Likely,F,43
+15159,5,5/11/2024,5,1,True,Social Media,None,High,Very Likely,F,29
+15160,6,19/11/2024,4,4,False,SMS,None,Moderate,Likely,F,30
+15164,1,28/7/2024,7,2,True,Chatbot,None,Moderate,Likely,M,28
+15165,2,15/11/2024,4,5,False,Email,Bronze,High,Very Likely,F,36
+15167,4,8/9/2024,2,3,False,Email,Bronze,High,Very Likely,M,2
+15171,2,20/10/2024,3,3,False,Chatbot,Silver,Low,Neutral,F,48
+15174,1,6/10/2024,8,1,True,SMS,None,Low,Unlikely,M,34
+15179,4,3/11/2024,5,4,True,SMS,None,High,Likely,F,19
+15180,4,10/8/2024,6,0,True,SMS,None,Low,Neutral,F,41
+15189,1,3/11/2024,2,1,False,Email,None,Moderate,Unlikely,F,11
+15192,4,16/7/2024,3,2,False,Chatbot,Gold,Moderate,Likely,F,37
+15194,3,2/10/2024,3,0,False,Social Media,Silver,High,Likely,M,33
+15197,1,19/8/2024,7,2,True,Chatbot,Gold,Moderate,Likely,F,45
+15199,2,26/12/2024,5,1,True,Email,Bronze,Low,Unlikely,F,41
+15203,1,19/8/2024,2,2,True,Email,Bronze,Moderate,Unlikely,M,19
+15204,2,21/11/2024,2,6,False,Chatbot,None,Moderate,Likely,M,29
+15208,2,28/12/2024,7,3,False,SMS,Bronze,Low,Unlikely,M,16
+15211,3,26/6/2024,8,3,False,SMS,Bronze,Moderate,Unlikely,M,40
+15213,4,2/12/2024,4,2,False,Social Media,Silver,Moderate,Unlikely,M,41
+15215,4,26/3/2024,4,3,True,SMS,Bronze,Low,Unlikely,F,15
+15218,0,,4,2,True,SMS,None,High,Very Likely,M,11
+15221,3,31/3/2024,3,1,False,Email,Silver,Moderate,Unlikely,F,7
+15222,0,,4,4,False,Email,Silver,Moderate,Likely,F,26
+15224,3,21/12/2024,6,4,False,Email,Bronze,High,Likely,F,28
+15226,1,16/12/2024,5,5,True,Social Media,Bronze,Moderate,Likely,F,37
+15227,4,25/3/2024,5,0,True,Email,None,Moderate,Unlikely,M,42
+15235,5,26/9/2024,3,1,True,Email,Bronze,High,Likely,F,23
+15240,1,31/10/2024,6,0,True,Chatbot,None,High,Likely,M,40
+15246,3,12/7/2024,4,1,True,SMS,None,High,Likely,F,2
+15260,3,16/3/2024,2,1,False,SMS,Bronze,Moderate,Likely,F,45
+15262,3,24/12/2024,5,1,True,Email,None,Moderate,Likely,F,40
+15266,2,26/9/2024,7,0,True,Chatbot,Silver,Moderate,Unlikely,F,22
+15270,3,26/12/2024,8,3,False,Email,Silver,Moderate,Likely,F,36
+15271,3,23/10/2024,0,2,False,Email,None,High,Very Likely,F,37
+15279,4,27/8/2024,5,0,False,Email,Silver,Moderate,Unlikely,M,10
+15281,3,9/9/2024,4,1,False,Email,Bronze,High,Likely,F,36
+15288,1,21/7/2024,6,2,False,Email,None,High,Likely,M,50
+15290,2,7/5/2024,4,7,True,SMS,Bronze,High,Very Likely,F,3
+15291,4,16/6/2024,7,5,False,Email,Bronze,High,Likely,M,32
+15296,1,16/9/2024,2,3,True,SMS,Bronze,High,Likely,M,40
+15298,4,22/6/2024,3,0,True,Email,Gold,High,Likely,F,2
+15299,2,1/10/2024,3,1,False,Email,Bronze,Low,Unlikely,M,25
+15301,1,29/12/2024,5,2,False,SMS,Gold,High,Very Likely,F,19
+15304,5,7/9/2024,6,1,False,Social Media,Bronze,Low,Unlikely,M,12
+15311,6,29/12/2024,9,1,False,Chatbot,None,High,Very Likely,F,40
+15312,1,27/12/2024,6,1,False,Social Media,Bronze,Moderate,Likely,F,47
+15326,7,14/10/2024,7,5,False,SMS,None,High,Likely,M,45
+15329,4,17/7/2024,2,2,False,SMS,Bronze,Low,Unlikely,F,48
+15332,3,9/5/2024,2,1,False,SMS,Bronze,High,Very Likely,F,30
+15339,3,1/11/2024,8,3,False,SMS,Bronze,High,Likely,F,47
+15346,0,,8,5,True,Email,None,High,Very Likely,F,15
+15347,3,9/10/2024,8,1,False,SMS,Bronze,Low,Unlikely,M,48
+15350,3,13/11/2024,7,3,False,Email,None,Low,Unlikely,M,48
+15351,1,1/3/2024,6,1,True,Email,Bronze,High,Very Likely,F,29
+15353,0,,2,3,False,SMS,Silver,Low,Neutral,F,46
+15356,2,26/8/2024,7,5,False,Email,Gold,High,Likely,F,32
+15358,4,13/9/2024,6,2,True,Email,None,High,Very Likely,F,35
+15361,6,6/12/2024,5,1,True,Email,Bronze,Moderate,Unlikely,M,2
+15363,3,3/7/2024,6,0,False,Social Media,Bronze,Low,Unlikely,M,32
+15365,3,24/11/2024,4,1,False,Email,Gold,Moderate,Unlikely,M,30
+15366,2,23/12/2024,4,3,False,Email,Bronze,Moderate,Unlikely,M,37
+15370,1,1/12/2024,4,4,True,Chatbot,None,Moderate,Unlikely,F,38
+15373,0,,5,1,True,Email,Bronze,High,Likely,M,24
+15379,2,20/12/2024,4,5,False,Email,Bronze,High,Very Likely,F,10
+15384,6,31/8/2024,7,2,False,Email,Silver,High,Very Likely,M,30
+15392,6,14/4/2024,2,3,False,Email,Silver,High,Likely,M,50
+15394,3,16/8/2024,4,1,False,Email,None,High,Very Likely,F,38
+15395,3,27/9/2024,1,3,False,Email,Gold,High,Likely,M,4
+15415,2,29/12/2024,6,1,True,Email,None,High,Likely,M,27
+15421,5,22/12/2024,1,5,True,Chatbot,Gold,Low,Unlikely,F,49
+15422,3,30/10/2024,6,4,False,SMS,Silver,Moderate,Unlikely,M,6
+15426,2,20/4/2024,6,2,False,SMS,Bronze,High,Very Likely,F,17
+15443,2,27/9/2024,0,3,False,Email,Silver,High,Likely,M,27
+15447,2,22/9/2024,6,1,False,Email,None,Moderate,Unlikely,F,34
+15448,3,30/12/2024,1,2,False,Chatbot,None,High,Likely,M,24
+15454,1,28/10/2024,4,1,True,Email,None,Moderate,Likely,M,39
+15456,6,20/12/2024,6,5,True,Chatbot,None,High,Very Likely,M,28
+15460,4,10/11/2024,7,1,True,Email,Bronze,High,Very Likely,F,4
+15464,6,27/12/2024,6,2,True,Chatbot,None,High,Likely,F,40
+15465,2,10/11/2024,3,0,False,Email,Silver,High,Likely,F,14
+15468,5,8/11/2024,7,1,True,Email,Bronze,Low,Unlikely,F,23
+15482,2,2/7/2024,6,0,True,Chatbot,Bronze,Low,Unlikely,F,18
+15485,3,3/9/2024,5,3,False,Chatbot,Bronze,High,Likely,M,25
+15497,6,25/12/2024,7,0,False,Email,None,Low,Unlikely,F,2
+15498,6,5/8/2024,4,4,False,Social Media,None,High,Likely,F,14
+15502,5,10/10/2024,7,1,False,Email,None,High,Likely,F,27
+15503,4,20/12/2024,1,2,False,Email,Silver,High,Very Likely,F,45
+15512,3,9/6/2024,2,2,False,SMS,Bronze,Low,Unlikely,F,42
+15513,1,18/3/2024,2,2,True,Chatbot,None,High,Very Likely,F,21
+15514,4,16/2/2024,6,1,True,Social Media,Silver,High,Likely,M,22
+15518,3,25/11/2024,8,2,False,Email,None,High,Likely,F,7
+15525,4,13/9/2024,6,0,False,Email,Bronze,High,Very Likely,M,48
+15527,2,25/10/2024,0,5,False,SMS,Bronze,High,Very Likely,F,21
+15529,2,31/7/2024,10,4,True,Email,Silver,High,Likely,M,16
+15532,4,3/9/2024,2,4,False,Email,Gold,High,Very Likely,F,23
+15535,4,2/10/2024,5,1,False,Email,Silver,High,Very Likely,F,24
+15544,1,28/4/2024,8,1,False,Email,Bronze,High,Likely,M,22
+15545,2,20/11/2024,5,3,True,Email,None,Moderate,Likely,F,39
+15547,4,15/12/2024,4,1,False,Email,Silver,High,Likely,M,40
+15549,2,16/11/2024,3,3,False,Chatbot,Bronze,High,Likely,F,5
+15555,3,5/5/2024,7,0,False,SMS,None,High,Likely,F,34
+15563,5,8/10/2024,7,1,True,Email,Silver,Moderate,Likely,F,41
+15569,2,3/11/2024,3,3,False,Email,None,Low,Neutral,M,32
+15570,2,25/4/2024,3,2,True,Email,None,High,Very Likely,F,34
+15574,2,22/3/2024,2,3,True,Email,Gold,High,Very Likely,F,5
+15579,2,10/12/2024,2,2,False,SMS,Bronze,High,Likely,F,21
+15581,4,10/8/2024,7,1,True,Social Media,None,High,Likely,F,18
+15587,2,15/8/2024,4,2,False,SMS,Silver,Low,Unlikely,M,6
+15589,2,17/12/2024,1,1,False,SMS,Silver,Moderate,Unlikely,F,11
+15596,3,16/7/2024,3,1,True,Email,None,High,Likely,F,39
+15601,2,11/6/2024,10,3,False,Email,Bronze,High,Likely,F,46
+15602,2,22/8/2024,3,6,False,Social Media,Silver,High,Likely,F,10
+15605,2,4/11/2024,6,1,True,Social Media,None,Moderate,Likely,F,21
+15606,5,4/10/2024,4,2,False,Email,Bronze,Moderate,Unlikely,F,15
+15607,4,17/10/2024,5,5,False,Email,None,Moderate,Unlikely,F,40
+15611,4,18/8/2024,3,2,False,Chatbot,Silver,Low,Neutral,F,4
+15615,4,17/12/2024,7,0,True,Email,Silver,High,Likely,M,19
+15620,4,17/9/2024,5,4,False,Chatbot,None,High,Likely,M,48
+15626,4,1/11/2024,2,1,True,Chatbot,Silver,Moderate,Likely,F,8
+15628,0,,6,1,False,Email,Silver,Moderate,Likely,F,4
+15640,1,15/6/2024,3,0,False,Social Media,None,High,Very Likely,F,30
+15641,4,16/11/2024,2,1,False,Social Media,Bronze,Moderate,Unlikely,F,6
+15646,1,27/2/2024,7,3,False,Social Media,None,High,Likely,M,10
+15649,4,14/7/2024,6,3,False,Email,Gold,Low,Neutral,M,22
+15658,1,15/10/2024,3,2,False,Email,Bronze,High,Very Likely,M,24
+15660,2,11/11/2024,5,0,False,SMS,Bronze,Moderate,Likely,M,13
+15661,2,9/6/2024,7,2,False,Email,Bronze,Moderate,Unlikely,F,24
+15664,1,25/12/2024,4,1,True,Email,Bronze,Low,Unlikely,M,10
+15673,4,8/9/2024,4,3,True,Email,Silver,High,Likely,M,24
+15680,7,14/7/2024,3,0,False,SMS,Bronze,High,Very Likely,M,32
+15687,3,14/8/2024,6,1,False,Email,Gold,High,Likely,M,20
+15689,4,21/12/2024,4,3,True,Email,Bronze,Moderate,Likely,M,16
+15694,5,6/5/2024,5,4,True,Email,None,High,Likely,F,41
+15696,3,4/10/2024,7,0,True,Chatbot,Gold,High,Very Likely,M,12
+15708,2,25/3/2024,4,2,False,SMS,Bronze,High,Likely,F,49
+15713,3,24/8/2024,3,1,False,Email,Bronze,Low,Unlikely,M,3
+15716,2,6/3/2024,1,1,False,Social Media,Gold,High,Likely,F,2
+15719,2,31/12/2024,5,2,False,Email,None,High,Very Likely,F,16
+15723,4,19/8/2024,8,1,False,SMS,Bronze,High,Likely,F,4
+15727,1,5/12/2024,5,4,False,Chatbot,None,High,Likely,F,40
+15732,5,17/4/2024,5,3,True,Chatbot,Bronze,Moderate,Likely,F,21
+15738,2,16/9/2024,3,3,True,Email,Silver,High,Likely,M,16
+15749,3,24/12/2024,3,3,False,Social Media,Gold,Low,Neutral,F,44
+15750,6,25/9/2024,6,4,False,Social Media,Bronze,High,Very Likely,F,7
+15752,3,2/12/2024,5,1,False,SMS,Silver,Moderate,Likely,F,27
+15759,3,25/7/2024,7,3,False,Email,Gold,Low,Unlikely,M,26
+15769,7,8/11/2024,6,3,False,Email,Bronze,Moderate,Unlikely,F,25
+15777,3,11/12/2024,8,3,True,SMS,None,Moderate,Likely,F,24
+15780,1,27/6/2024,8,4,True,Email,Bronze,Moderate,Likely,M,19
+15781,0,,8,1,False,Chatbot,Gold,Low,Unlikely,M,19
+15789,3,22/12/2024,9,1,False,Email,Gold,High,Very Likely,F,28
+15797,1,26/12/2024,5,0,False,SMS,Bronze,Low,Unlikely,F,27
+15799,2,28/11/2024,3,6,False,Email,Silver,Moderate,Likely,M,31
+15805,1,17/7/2024,4,0,False,Email,None,Moderate,Likely,M,33
+15808,3,14/7/2024,5,1,False,Email,None,High,Very Likely,F,6
+15811,1,14/8/2024,6,3,True,Email,Gold,High,Likely,F,27
+15820,2,24/11/2024,7,1,True,SMS,None,High,Likely,F,8
+15822,4,16/9/2024,4,2,True,Chatbot,None,Moderate,Likely,F,4
+15823,3,14/8/2024,6,1,False,SMS,Bronze,High,Likely,M,27
+15827,4,15/3/2024,13,1,True,SMS,Bronze,High,Likely,F,3
+15831,2,29/12/2024,3,2,False,SMS,Bronze,Moderate,Likely,F,39
+15835,2,7/9/2024,7,2,False,Email,None,Moderate,Likely,F,46
+15838,3,18/9/2024,7,2,False,Email,Gold,Low,Unlikely,F,9
+15841,1,31/12/2024,2,2,True,Email,Gold,Low,Neutral,M,6
+15845,2,26/4/2024,5,2,True,Chatbot,None,Moderate,Likely,M,22
+15854,4,9/11/2024,2,2,False,Email,Bronze,High,Likely,M,44
+15856,6,20/5/2024,4,4,True,Email,Silver,High,Very Likely,M,4
+15858,4,14/12/2024,3,1,True,SMS,Bronze,High,Very Likely,F,18
+15860,1,11/11/2024,3,1,True,Social Media,None,High,Likely,F,46
+15862,4,19/9/2024,1,2,True,SMS,Bronze,High,Very Likely,F,24
+15864,4,15/11/2024,7,2,True,Chatbot,None,Low,Unlikely,F,17
+15867,1,11/3/2024,4,3,False,SMS,None,High,Likely,M,11
+15880,5,20/7/2024,9,2,False,Email,Bronze,High,Very Likely,F,33
+15881,2,27/3/2024,4,1,False,Chatbot,Bronze,High,Very Likely,M,34
+15882,1,15/10/2024,6,3,True,Chatbot,Silver,High,Likely,F,45
+15889,4,5/8/2024,3,5,False,Email,Silver,High,Very Likely,F,21
+15894,3,16/12/2024,8,2,False,Email,None,High,Very Likely,M,44
+15898,3,27/4/2024,6,3,True,Email,Silver,High,Very Likely,M,27
+15899,6,25/6/2024,5,1,False,Email,None,Low,Unlikely,F,24
+15910,4,2/11/2024,3,4,True,Chatbot,Bronze,High,Likely,F,8
+15916,9,12/12/2024,11,3,False,Email,Silver,High,Likely,F,37
+15919,3,1/11/2024,7,2,False,Email,Bronze,High,Likely,F,24
+15922,2,21/12/2024,6,3,False,Chatbot,Bronze,Low,Unlikely,M,29
+15923,3,18/9/2024,6,2,True,SMS,Bronze,Moderate,Likely,F,34
+15938,2,12/11/2024,6,1,False,SMS,Gold,Low,Neutral,F,34
+15939,5,15/6/2024,6,1,True,Chatbot,Bronze,High,Very Likely,F,11
+15940,4,23/10/2024,5,3,False,Email,Silver,Low,Unlikely,F,32
+15945,3,6/7/2024,8,4,False,SMS,Gold,Low,Unlikely,F,13
+15950,5,24/11/2024,6,5,True,Email,Silver,High,Likely,M,44
+15953,3,15/5/2024,8,3,False,Email,Bronze,Moderate,Unlikely,M,23
+15955,1,27/5/2024,13,2,False,Email,None,High,Very Likely,F,49
+15965,3,16/6/2024,4,0,False,Email,None,High,Likely,F,26
+15967,7,5/12/2024,1,3,True,Social Media,Bronze,High,Very Likely,F,12
+15971,3,12/10/2024,4,3,False,Social Media,Silver,Moderate,Unlikely,F,39
+15973,2,10/12/2024,2,3,False,Chatbot,Bronze,Moderate,Likely,M,9
+15981,5,13/10/2024,7,1,False,Email,Gold,Low,Unlikely,F,13
+15983,2,20/11/2024,4,2,False,Social Media,None,High,Likely,M,25
+15984,4,13/11/2024,5,3,False,SMS,Silver,Moderate,Unlikely,F,25
+15987,1,22/11/2024,8,1,False,Email,Bronze,Moderate,Unlikely,F,32
+15996,3,20/12/2024,6,4,True,Chatbot,Bronze,Moderate,Likely,F,26
+15998,8,5/11/2024,5,2,False,Email,Silver,High,Very Likely,F,16
+16003,3,9/10/2024,2,2,False,Email,None,Moderate,Likely,F,10
+16010,5,14/8/2024,6,2,False,Chatbot,None,High,Very Likely,M,5
+16011,6,10/12/2024,5,1,False,SMS,Bronze,High,Very Likely,M,10
+16013,5,30/4/2024,6,2,True,Email,Bronze,Low,Neutral,M,31
+16016,4,29/11/2024,3,1,False,SMS,Silver,High,Likely,M,19
+16019,3,30/5/2024,6,5,False,Social Media,Gold,High,Likely,F,34
+16029,4,4/3/2024,6,3,True,SMS,None,High,Likely,F,40
+16030,0,,4,1,False,Email,Bronze,High,Very Likely,F,50
+16033,8,3/10/2024,7,2,False,Email,Bronze,High,Likely,F,48
+16034,2,23/8/2024,4,3,True,Email,Gold,Low,Unlikely,F,26
+16037,4,23/11/2024,0,3,True,Social Media,Gold,Moderate,Likely,F,15
+16042,0,,9,5,False,Email,Silver,Moderate,Unlikely,F,16
+16043,1,4/11/2024,1,1,False,Email,Bronze,High,Very Likely,F,19
+16048,7,23/6/2024,6,0,True,Email,None,Moderate,Likely,M,12
+16059,4,11/12/2024,4,0,False,Chatbot,None,High,Likely,M,44
+16062,5,2/11/2024,5,4,False,SMS,Bronze,Low,Unlikely,F,20
+16065,1,14/9/2024,6,0,False,SMS,Silver,High,Very Likely,F,41
+16081,5,26/12/2024,8,1,False,Email,Bronze,High,Likely,M,14
+16083,1,7/9/2024,4,1,False,Email,Silver,Moderate,Likely,M,21
+16085,2,11/7/2024,5,2,False,Social Media,Bronze,High,Very Likely,M,15
+16086,1,12/9/2024,10,1,True,Social Media,Silver,Moderate,Unlikely,F,47
+16094,4,15/5/2024,5,3,False,Social Media,None,Low,Unlikely,F,16
+16098,3,3/12/2024,7,4,False,Social Media,None,Moderate,Unlikely,M,49
+16109,1,31/12/2024,6,2,True,Chatbot,None,Low,Unlikely,F,50
+16110,3,14/11/2024,4,3,False,SMS,Silver,High,Likely,M,29
+16112,2,3/9/2024,3,2,True,Chatbot,None,Moderate,Likely,F,16
+16122,2,9/12/2024,5,2,False,SMS,Silver,High,Likely,M,43
+16124,1,26/6/2024,4,2,False,Email,None,Moderate,Likely,F,34
+16125,3,2/9/2024,4,2,False,Email,Bronze,Moderate,Unlikely,M,22
+16133,2,19/11/2024,5,4,True,Social Media,Gold,Moderate,Likely,F,22
+16134,3,29/10/2024,2,1,True,Email,Bronze,High,Very Likely,F,5
+16140,3,19/10/2024,7,1,False,Chatbot,None,Moderate,Likely,F,34
+16143,5,14/5/2024,3,1,False,Email,None,High,Likely,F,9
+16145,6,26/2/2024,5,5,False,Email,Gold,High,Likely,F,9
+16150,3,29/5/2024,6,4,True,Email,Bronze,High,Very Likely,F,34
+16153,5,4/6/2024,8,1,True,Email,Bronze,Moderate,Unlikely,M,29
+16156,2,18/12/2024,5,2,False,Email,Bronze,Moderate,Unlikely,F,24
+16161,2,18/11/2024,3,4,False,Email,None,High,Likely,M,10
+16163,4,24/7/2024,3,0,True,Chatbot,None,Low,Neutral,F,22
+16168,3,23/10/2024,5,3,False,Email,Bronze,Low,Unlikely,M,24
+16186,2,23/6/2024,7,3,False,Email,Silver,Moderate,Likely,F,18
+16191,1,8/6/2024,5,3,True,Email,None,High,Likely,M,19
+16202,5,24/10/2024,5,4,False,SMS,Silver,High,Very Likely,F,44
+16203,3,10/5/2024,10,2,False,SMS,Silver,Moderate,Unlikely,M,9
+16206,4,15/12/2024,2,2,False,SMS,Gold,Moderate,Unlikely,F,28
+16210,1,23/12/2024,6,1,False,Email,None,High,Likely,M,49
+16218,3,3/11/2024,7,3,False,Email,None,High,Likely,M,40
+16221,4,22/9/2024,4,3,True,Chatbot,Silver,Moderate,Likely,F,9
+16222,2,9/11/2024,11,2,False,Chatbot,None,High,Very Likely,F,45
+16233,2,11/5/2024,5,2,False,Email,None,Moderate,Likely,F,23
+16235,2,26/9/2024,4,2,False,Email,Silver,Moderate,Likely,M,34
+16241,4,27/10/2024,1,5,True,Email,None,High,Very Likely,M,34
+16244,5,11/8/2024,11,3,False,Email,Bronze,High,Likely,F,36
+16250,2,17/6/2024,3,2,False,Chatbot,Bronze,Moderate,Likely,F,30
+16252,2,30/9/2024,2,3,False,SMS,Silver,Moderate,Unlikely,F,37
+16255,4,11/5/2024,7,4,False,Email,None,High,Very Likely,M,7
+16262,0,,5,3,False,Email,Silver,Low,Unlikely,M,11
+16265,3,15/11/2024,1,1,True,Social Media,Bronze,High,Very Likely,M,38
+16270,0,,6,0,False,Chatbot,Bronze,High,Likely,F,37
+16271,2,2/10/2024,4,7,False,Chatbot,None,Moderate,Likely,M,24
+16274,2,16/7/2024,9,2,False,Email,None,High,Very Likely,F,43
+16282,1,9/10/2024,4,4,False,SMS,Bronze,Moderate,Likely,F,20
+16293,4,20/11/2024,9,0,False,Email,Bronze,High,Very Likely,M,13
+16303,5,14/12/2024,5,1,False,Email,Gold,High,Likely,F,12
+16306,1,5/7/2024,2,2,True,Email,Bronze,High,Likely,M,13
+16315,4,25/10/2024,8,1,False,SMS,Bronze,Moderate,Likely,M,35
+16316,0,,2,0,False,Email,Bronze,High,Very Likely,F,44
+16321,6,25/10/2024,7,1,True,Chatbot,Silver,Low,Unlikely,M,18
+16326,5,10/12/2024,9,1,True,Email,Bronze,High,Likely,M,6
+16327,1,3/4/2024,3,0,True,Email,None,High,Likely,M,44
+16333,5,23/12/2024,3,2,False,Email,Silver,Low,Unlikely,F,41
+16350,1,25/4/2024,6,3,False,Email,Bronze,High,Likely,F,31
+16351,4,22/10/2024,7,2,True,Email,Bronze,Moderate,Unlikely,F,20
+16353,2,13/9/2024,2,8,True,Email,Bronze,Moderate,Unlikely,M,6
+16359,1,5/11/2024,9,1,False,Email,Silver,Low,Unlikely,F,49
+16365,3,5/5/2024,5,1,False,Email,None,Moderate,Likely,F,49
+16367,3,18/9/2024,5,5,True,SMS,None,High,Likely,M,20
+16378,6,14/12/2024,3,2,False,Email,Silver,Moderate,Likely,F,4
+16385,0,,6,1,False,SMS,None,High,Very Likely,M,19
+16387,3,14/4/2024,6,2,False,SMS,Silver,Moderate,Likely,F,20
+16393,5,5/3/2024,4,2,False,Email,None,High,Very Likely,F,20
+16395,1,29/8/2024,6,3,False,Chatbot,None,High,Very Likely,M,18
+16401,3,17/7/2024,8,3,True,SMS,None,Low,Unlikely,M,40
+16402,4,20/4/2024,4,1,True,Email,Bronze,High,Likely,M,31
+16403,2,14/12/2024,6,1,False,Social Media,Bronze,Moderate,Likely,F,26
+16405,3,18/12/2024,4,4,False,Chatbot,None,Low,Unlikely,F,20
+16407,7,17/12/2024,9,3,False,Social Media,None,Moderate,Likely,M,48
+16409,1,24/10/2024,5,2,False,SMS,Gold,High,Likely,F,45
+16411,3,26/7/2024,7,3,True,Email,Bronze,High,Very Likely,F,40
+16419,3,10/9/2024,2,3,False,Email,Silver,Moderate,Unlikely,F,50
+16422,1,20/8/2024,4,1,False,SMS,Gold,High,Very Likely,F,35
+16424,1,25/11/2024,4,3,False,Social Media,Gold,Low,Unlikely,M,29
+16442,2,17/12/2024,7,0,False,SMS,Silver,High,Very Likely,F,46
+16455,2,19/9/2024,3,1,False,Chatbot,None,High,Likely,F,23
+16456,6,27/12/2024,4,3,False,Email,Gold,High,Likely,M,47
+16458,1,7/8/2024,3,0,False,Email,Silver,High,Likely,M,12
+16470,3,10/11/2024,3,2,False,Social Media,Silver,High,Very Likely,F,13
+16473,3,20/9/2024,2,3,True,Chatbot,None,Moderate,Unlikely,F,36
+16477,4,20/8/2024,10,4,False,Social Media,Gold,High,Very Likely,F,50
+16493,2,5/10/2024,3,1,False,Chatbot,Silver,Low,Neutral,F,37
+16496,3,26/11/2024,2,3,False,Email,Silver,High,Very Likely,M,16
+16497,4,17/11/2024,6,0,False,SMS,None,Moderate,Unlikely,F,16
+16499,2,20/6/2024,4,1,False,Social Media,None,Moderate,Likely,F,31
+16500,3,25/11/2024,6,1,False,SMS,Gold,Low,Neutral,M,6
+16503,2,27/9/2024,2,3,False,Email,Bronze,High,Likely,F,29
+16510,4,5/10/2024,4,2,True,Email,None,High,Likely,F,39
+16515,1,3/11/2024,9,0,False,SMS,Silver,High,Very Likely,F,19
+16519,3,26/8/2024,10,2,False,Email,None,Low,Neutral,F,45
+16520,5,27/6/2024,5,2,False,Chatbot,Bronze,High,Likely,F,37
+16523,2,12/12/2024,2,4,False,Email,None,High,Very Likely,M,6
+16525,4,5/6/2024,3,3,False,Email,None,High,Likely,F,47
+16531,2,23/6/2024,7,5,False,Chatbot,None,Moderate,Unlikely,M,28
+16532,1,25/8/2024,6,2,False,Email,None,Low,Unlikely,F,7
+16539,3,30/1/2024,4,4,True,Chatbot,None,High,Likely,M,2
+16546,4,15/12/2024,2,3,False,Email,Bronze,Moderate,Likely,F,42
+16549,7,31/10/2024,7,5,False,Social Media,Gold,High,Likely,F,17
+16550,4,28/8/2024,6,0,False,Email,Bronze,High,Likely,F,34
+16551,6,17/11/2024,7,1,True,Email,None,Moderate,Likely,F,10
+16552,4,1/11/2024,7,2,False,Chatbot,None,Moderate,Unlikely,F,27
+16553,1,6/6/2024,3,2,False,Chatbot,Silver,Moderate,Likely,M,39
+16556,1,7/9/2024,3,1,False,Email,Gold,High,Very Likely,F,19
+16558,7,26/7/2024,4,3,False,Social Media,None,High,Likely,M,35
+16560,4,5/12/2024,5,6,True,SMS,None,High,Very Likely,M,49
+16565,3,16/1/2024,2,5,False,Social Media,Bronze,Low,Unlikely,F,2
+16567,3,14/1/2024,4,0,False,SMS,Silver,High,Very Likely,F,20
+16570,3,3/5/2024,7,2,False,Email,Bronze,High,Very Likely,M,15
+16579,3,7/6/2024,5,0,True,Email,Bronze,Low,Unlikely,M,50
+16583,1,3/9/2024,6,3,False,Email,Silver,Moderate,Likely,F,27
+16596,1,2/12/2024,4,1,False,SMS,Gold,Low,Unlikely,F,18
+16600,3,25/10/2024,9,4,False,Email,None,Low,Unlikely,M,32
+16607,0,,2,2,False,Email,Gold,High,Likely,F,31
+16612,3,12/11/2024,6,3,False,Email,None,High,Very Likely,F,17
+16618,3,23/9/2024,4,0,False,Email,Silver,High,Likely,F,11
+16634,0,,3,2,True,Chatbot,Bronze,Low,Neutral,F,33
+16638,2,19/2/2024,6,2,True,SMS,Bronze,Moderate,Likely,F,34
+16654,1,24/4/2024,7,1,False,Chatbot,Bronze,Low,Unlikely,F,15
+16655,2,6/11/2024,8,4,True,Social Media,None,High,Likely,M,40
+16656,4,16/8/2024,9,1,False,SMS,None,Moderate,Likely,F,46
+16658,4,12/7/2024,5,1,True,Social Media,Bronze,Moderate,Likely,F,40
+16660,1,8/12/2024,4,1,True,Email,Bronze,Low,Unlikely,F,3
+16665,3,7/11/2024,3,3,True,Email,None,Moderate,Likely,F,31
+16670,3,20/12/2024,7,2,False,Email,Gold,High,Very Likely,F,48
+16676,2,4/11/2024,4,0,False,Email,None,Moderate,Likely,F,4
+16679,2,26/9/2024,8,6,False,Chatbot,Bronze,Low,Unlikely,M,28
+16684,3,21/8/2024,8,2,False,SMS,None,High,Likely,M,43
+16686,2,23/8/2024,1,1,False,Email,Bronze,High,Likely,M,31
+16700,3,10/11/2024,5,1,False,Chatbot,None,High,Very Likely,M,7
+16701,2,7/12/2024,4,4,False,SMS,Bronze,High,Very Likely,F,14
+16705,1,16/2/2024,3,4,False,Email,None,High,Likely,F,18
+16710,0,,2,2,False,SMS,None,High,Likely,F,30
+16713,3,20/8/2024,8,5,False,Social Media,Silver,High,Very Likely,M,5
+16714,4,27/9/2024,8,1,False,Chatbot,Bronze,High,Likely,M,38
+16716,4,17/11/2024,3,0,False,SMS,None,Low,Unlikely,F,44
+16717,3,18/12/2024,4,4,False,Email,None,Moderate,Likely,F,42
+16718,3,15/10/2024,12,7,True,Email,Silver,High,Very Likely,F,39
+16719,6,4/10/2024,3,3,False,Email,None,High,Likely,F,40
+16722,4,4/10/2024,3,2,True,Chatbot,Gold,High,Likely,F,45
+16725,4,24/11/2024,4,1,False,Email,Bronze,High,Likely,F,48
+16726,5,4/8/2024,3,2,False,Email,None,High,Likely,F,19
+16727,1,3/12/2024,4,1,False,Social Media,Silver,High,Likely,F,11
+16730,4,6/12/2024,6,1,True,Chatbot,Silver,Moderate,Unlikely,F,9
+16735,2,26/12/2024,4,3,True,SMS,None,High,Likely,M,42
+16743,4,12/9/2024,3,3,True,Email,Bronze,High,Very Likely,F,9
+16745,5,22/12/2024,8,6,False,Email,Bronze,High,Likely,F,29
+16746,2,22/7/2024,2,3,False,Email,Gold,High,Likely,M,16
+16748,4,22/11/2024,3,1,False,SMS,Bronze,Moderate,Likely,M,41
+16752,1,24/6/2024,7,4,False,Email,None,Moderate,Likely,M,42
+16754,2,27/2/2024,3,3,False,Chatbot,None,Low,Neutral,F,5
+16755,4,6/12/2024,7,2,False,Social Media,None,Moderate,Likely,F,33
+16757,1,8/11/2024,5,7,True,Email,None,Moderate,Unlikely,F,22
+16767,1,7/11/2024,2,1,True,Email,None,High,Very Likely,M,29
+16770,0,,9,0,False,Chatbot,Bronze,High,Very Likely,F,26
+16771,3,16/8/2024,4,1,False,Social Media,None,High,Likely,M,39
+16775,3,11/4/2024,3,2,False,Chatbot,None,High,Likely,F,19
+16779,4,24/3/2024,1,5,False,Email,Bronze,High,Very Likely,M,11
+16781,2,29/11/2024,2,1,False,Email,None,High,Likely,F,38
+16782,3,1/8/2024,6,2,False,Chatbot,None,High,Likely,F,45
+16791,6,5/11/2024,10,1,True,SMS,None,High,Likely,F,7
+16795,2,16/9/2024,6,2,False,Email,None,High,Very Likely,F,20
+16805,2,27/10/2024,6,1,False,SMS,Silver,High,Very Likely,F,15
+16810,2,22/11/2024,2,0,True,Chatbot,Bronze,Low,Neutral,F,12
+16812,4,24/11/2024,4,1,False,Email,None,Moderate,Unlikely,F,40
+16814,1,30/9/2024,5,4,False,Chatbot,None,High,Likely,M,22
+16816,4,10/8/2024,8,0,False,Email,None,High,Likely,F,31
+16817,3,29/8/2024,5,2,False,Chatbot,Bronze,High,Very Likely,M,20
+16833,3,13/11/2024,3,3,False,SMS,Bronze,Moderate,Likely,F,46
+16835,5,16/6/2024,1,1,False,Email,Bronze,Low,Neutral,M,11
+16839,3,29/4/2024,7,2,False,Chatbot,None,High,Likely,F,10
+16843,1,18/10/2024,7,3,True,Chatbot,None,Moderate,Likely,M,31
+16850,1,18/10/2024,4,4,False,Social Media,Silver,Moderate,Likely,M,22
+16858,3,10/4/2024,4,3,False,Email,Silver,Low,Unlikely,F,47
+16861,5,17/11/2024,4,5,True,SMS,Gold,Low,Unlikely,F,41
+16863,4,29/4/2024,9,1,False,SMS,None,Moderate,Likely,F,22
+16873,2,5/5/2024,1,2,False,SMS,Silver,High,Very Likely,M,6
+16875,7,16/7/2024,3,2,False,Chatbot,Silver,High,Likely,F,3
+16883,0,,4,2,False,Email,Gold,High,Very Likely,F,37
+16885,4,5/12/2024,3,3,False,Email,None,High,Likely,M,27
+16889,2,18/12/2024,3,2,False,SMS,Silver,High,Likely,F,23
+16891,3,16/12/2024,8,2,False,Email,None,High,Likely,M,12
+16892,1,11/10/2024,11,5,False,Social Media,Bronze,Low,Unlikely,M,16
+16893,3,28/12/2024,4,2,False,SMS,None,High,Likely,F,50
+16897,1,28/12/2024,2,2,False,Email,Silver,High,Likely,M,49
+16898,3,30/10/2024,3,3,True,Chatbot,Silver,High,Likely,M,40
+16899,6,11/8/2024,4,1,False,Email,None,High,Very Likely,F,36
+16904,3,9/6/2024,2,3,False,SMS,Bronze,High,Very Likely,F,17
+16905,2,10/10/2024,7,1,False,Email,None,Moderate,Likely,F,33
+16907,1,5/7/2024,2,2,False,Email,Bronze,High,Likely,F,16
+16912,4,3/12/2024,11,2,False,Email,None,Moderate,Likely,F,16
+16916,4,19/6/2024,5,2,False,SMS,None,High,Likely,F,7
+16918,3,9/8/2024,5,2,False,Email,Silver,High,Very Likely,M,47
+16919,1,18/7/2024,4,5,False,Email,None,High,Likely,F,10
+16923,4,21/9/2024,4,3,False,Email,Bronze,High,Likely,F,23
+16926,2,21/12/2024,4,0,False,Email,Silver,Moderate,Likely,M,48
+16927,4,11/10/2024,3,1,False,Social Media,Gold,Low,Unlikely,F,45
+16928,1,7/8/2024,5,1,False,Email,Silver,Moderate,Likely,F,19
+16931,5,31/12/2024,9,0,True,Chatbot,None,High,Likely,F,37
+16938,3,28/12/2024,5,2,True,SMS,Silver,High,Likely,F,7
+16943,1,3/12/2024,2,4,True,SMS,None,Moderate,Likely,M,34
+16945,2,17/12/2024,6,3,False,Email,Gold,Moderate,Likely,F,9
+16948,1,12/11/2024,7,0,False,Social Media,Silver,Moderate,Likely,F,2
+16949,5,27/12/2024,5,1,False,Email,Silver,Low,Unlikely,M,44
+16950,1,7/11/2024,7,3,True,SMS,None,Low,Neutral,F,26
+16954,3,1/6/2024,7,3,False,Social Media,Bronze,Moderate,Likely,F,6
+16955,2,13/12/2024,8,2,False,Chatbot,Silver,Moderate,Likely,F,15
+16983,3,14/5/2024,7,1,False,SMS,Silver,High,Very Likely,F,21
+16985,2,10/8/2024,3,1,False,Social Media,None,High,Likely,F,5
+16992,5,21/12/2024,4,0,True,Chatbot,Gold,Low,Unlikely,F,7
+16996,4,19/11/2024,4,3,False,Email,None,Moderate,Unlikely,F,13
+16997,5,23/11/2024,3,2,True,Email,Bronze,Moderate,Likely,F,35
+17001,2,12/10/2024,7,2,False,Email,Bronze,High,Likely,F,18
+17007,3,16/9/2024,7,3,False,Email,None,Moderate,Likely,F,3
+17017,2,10/3/2024,3,1,False,Chatbot,None,High,Very Likely,M,40
+17018,1,23/10/2024,7,1,False,SMS,Silver,Moderate,Likely,M,26
+17019,3,22/10/2024,8,3,True,Email,None,High,Likely,M,25
+17025,1,9/3/2024,3,3,False,Chatbot,None,Low,Unlikely,F,45
+17027,7,13/2/2024,4,3,False,Email,Silver,High,Likely,F,32
+17033,6,8/8/2024,7,1,True,Social Media,Silver,Moderate,Likely,M,47
+17035,3,10/8/2024,1,0,False,Social Media,Bronze,High,Very Likely,F,10
+17041,4,13/10/2024,4,3,False,Social Media,None,Low,Unlikely,F,15
+17044,1,15/12/2024,2,2,False,Chatbot,None,Low,Neutral,F,29
+17048,1,23/12/2024,2,2,False,Email,Silver,Moderate,Likely,F,39
+17059,2,23/2/2024,5,3,True,SMS,Bronze,High,Likely,M,24
+17062,3,22/9/2024,6,2,False,Email,Bronze,High,Likely,M,44
+17064,3,18/12/2024,5,6,False,Email,Silver,High,Likely,M,7
+17068,1,21/8/2024,4,1,False,SMS,Bronze,High,Likely,F,31
+17069,4,18/7/2024,5,3,False,Email,None,High,Likely,F,10
+17071,1,26/12/2024,7,3,False,Social Media,Gold,Moderate,Likely,F,15
+17075,3,18/12/2024,4,1,True,Social Media,Bronze,Moderate,Unlikely,F,24
+17076,3,12/12/2024,2,1,False,Email,Bronze,Moderate,Likely,M,46
+17082,1,21/11/2024,9,1,False,SMS,Gold,High,Likely,F,30
+17085,2,14/8/2024,4,1,False,Email,Gold,High,Likely,F,19
+17090,4,17/9/2024,3,3,False,Chatbot,Bronze,Low,Unlikely,F,23
+17091,2,27/3/2024,4,2,True,SMS,None,High,Very Likely,F,37
+17094,0,,4,2,True,Email,Gold,Moderate,Likely,M,35
+17095,4,13/12/2024,6,0,True,Email,Bronze,Moderate,Likely,M,35
+17097,0,,4,1,False,Email,Bronze,High,Very Likely,M,33
+17105,2,31/12/2024,6,5,False,Social Media,Bronze,High,Very Likely,F,38
+17114,5,21/11/2024,9,0,False,Email,Bronze,High,Very Likely,M,19
+17118,1,17/12/2024,3,2,True,Email,Silver,Moderate,Unlikely,F,49
+17126,5,5/4/2024,3,5,True,Chatbot,Bronze,High,Very Likely,F,32
+17128,4,18/10/2024,8,1,False,Chatbot,Silver,Moderate,Unlikely,F,47
+17135,4,11/2/2024,6,1,False,Chatbot,Silver,Moderate,Likely,F,45
+17146,3,5/11/2024,1,2,False,SMS,Silver,Moderate,Unlikely,M,5
+17147,6,5/11/2024,7,1,False,SMS,Silver,High,Very Likely,F,24
+17158,2,3/8/2024,5,0,False,SMS,Silver,High,Very Likely,M,17
+17179,4,18/12/2024,7,3,True,Email,None,Moderate,Unlikely,F,31
+17180,2,20/12/2024,5,0,True,SMS,None,High,Very Likely,F,35
+17181,5,7/11/2024,2,1,True,Email,Silver,Low,Unlikely,F,49
+17188,3,4/12/2024,6,2,True,Email,Bronze,High,Likely,M,8
+17189,3,23/12/2024,7,2,True,Social Media,None,High,Likely,F,42
+17191,3,5/6/2024,5,0,False,Email,None,High,Very Likely,M,13
+17194,1,1/10/2024,6,3,False,Social Media,None,High,Likely,F,19
+17198,3,7/5/2024,5,2,False,Email,Silver,High,Likely,F,18
+17204,6,1/7/2024,6,0,False,Email,Silver,Low,Unlikely,F,29
+17211,3,28/3/2024,3,3,False,SMS,None,High,Very Likely,F,29
+17213,1,13/4/2024,4,3,True,Chatbot,Silver,High,Very Likely,M,25
+17214,3,13/12/2024,5,2,False,SMS,None,High,Likely,F,28
+17218,3,19/10/2024,8,4,False,Chatbot,Silver,High,Likely,F,31
+17220,2,10/6/2024,10,1,False,Email,Bronze,High,Likely,F,19
+17223,3,13/4/2024,5,2,False,Social Media,Silver,High,Very Likely,F,10
+17226,0,,3,3,True,Email,None,High,Likely,F,22
+17227,8,5/12/2024,7,2,False,Chatbot,None,Low,Unlikely,F,19
+17228,1,22/3/2024,2,4,True,Email,Silver,High,Very Likely,M,42
+17230,1,13/8/2024,6,1,False,Chatbot,None,High,Likely,M,29
+17231,3,1/7/2024,6,1,False,SMS,Gold,High,Likely,F,5
+17235,2,28/3/2024,6,5,True,Email,Bronze,Moderate,Unlikely,M,12
+17236,2,11/12/2024,5,3,True,Social Media,Bronze,High,Likely,F,28
+17238,3,24/6/2024,0,2,True,Email,Bronze,High,Likely,F,20
+17239,4,4/8/2024,6,5,True,Email,None,High,Likely,F,28
+17243,3,9/7/2024,4,4,False,Chatbot,Bronze,High,Very Likely,M,9
+17251,7,6/7/2024,6,4,False,Email,Gold,High,Likely,M,46
+17256,3,31/8/2024,3,5,True,Email,None,Moderate,Unlikely,F,43
+17259,3,14/12/2024,6,3,False,SMS,Silver,High,Very Likely,M,8
+17262,3,28/6/2024,3,3,False,Chatbot,Bronze,Low,Neutral,F,22
+17277,5,22/11/2024,5,1,True,Email,Bronze,High,Very Likely,F,31
+17284,5,19/8/2024,2,5,True,SMS,None,High,Very Likely,F,38
+17287,4,5/8/2024,4,8,False,Chatbot,Bronze,Moderate,Likely,F,45
+17288,4,9/8/2024,7,0,True,Chatbot,Gold,Low,Unlikely,M,3
+17293,2,30/11/2024,6,2,False,Social Media,None,High,Very Likely,M,16
+17303,6,25/11/2024,7,0,True,Chatbot,Bronze,High,Likely,F,39
+17306,3,11/8/2024,6,0,False,SMS,Bronze,Moderate,Unlikely,F,9
+17311,2,27/10/2024,2,2,False,Email,Bronze,High,Likely,F,6
+17314,6,31/5/2024,0,0,False,Email,Bronze,High,Likely,M,24
+17315,4,2/9/2024,4,2,False,Chatbot,Bronze,High,Likely,F,10
+17320,3,17/8/2024,5,2,False,Social Media,None,Moderate,Unlikely,F,40
+17324,3,2/5/2024,2,3,True,Chatbot,Gold,High,Likely,M,49
+17329,6,22/12/2024,3,1,False,Email,Silver,Moderate,Likely,F,9
+17334,4,25/12/2024,6,1,False,Email,None,Moderate,Likely,F,8
+17337,2,18/12/2024,9,0,False,SMS,Bronze,High,Likely,F,44
+17338,1,24/9/2024,6,4,False,SMS,Silver,High,Very Likely,F,40
+17339,3,19/11/2024,4,1,True,Chatbot,Gold,Low,Unlikely,F,21
+17340,4,9/8/2024,2,1,False,SMS,Gold,High,Very Likely,F,36
+17341,5,1/9/2024,6,2,False,Email,Silver,High,Likely,F,13
+17343,6,11/8/2024,7,0,False,Social Media,None,Moderate,Unlikely,M,32
+17346,2,24/9/2024,2,2,False,SMS,Gold,High,Likely,F,12
+17356,4,24/9/2024,6,2,True,Email,Silver,Moderate,Unlikely,F,8
+17358,4,16/7/2024,8,2,False,Email,None,High,Likely,F,6
+17362,0,,4,0,False,Social Media,None,Moderate,Unlikely,F,46
+17364,4,4/10/2024,6,4,False,Chatbot,Bronze,High,Likely,M,39
+17365,5,15/9/2024,6,5,False,Email,Bronze,High,Likely,F,11
+17368,2,4/10/2024,1,2,False,Email,None,High,Likely,M,8
+17371,5,18/8/2024,7,1,True,Email,None,Low,Neutral,M,24
+17372,4,9/6/2024,6,1,False,Email,None,High,Likely,F,4
+17373,5,9/12/2024,5,2,False,SMS,Bronze,High,Likely,M,11
+17375,2,28/5/2024,3,1,False,SMS,None,High,Very Likely,M,21
+17376,2,29/9/2024,7,2,False,SMS,Silver,Moderate,Likely,F,34
+17377,0,,4,3,False,Chatbot,None,High,Likely,M,34
+17381,4,6/8/2024,2,2,True,Email,Gold,Moderate,Likely,M,17
+17389,1,16/9/2024,7,2,True,Email,Silver,Low,Unlikely,F,2
+17392,2,7/7/2024,5,1,False,Email,Gold,High,Likely,M,6
+17396,3,31/3/2024,8,5,False,Email,Silver,Low,Unlikely,F,13
+17400,2,6/11/2024,7,0,False,Email,None,High,Very Likely,F,45
+17402,2,13/4/2024,5,3,False,SMS,Bronze,High,Likely,F,37
+17404,1,6/9/2024,4,0,False,Chatbot,None,High,Very Likely,F,11
+17406,3,19/4/2024,3,2,False,Chatbot,Gold,High,Likely,F,3
+17411,4,21/12/2024,9,3,False,Chatbot,None,Low,Neutral,F,16
+17412,6,11/8/2024,4,2,False,SMS,Bronze,High,Likely,F,19
+17418,3,3/11/2024,8,2,True,Chatbot,Silver,Moderate,Likely,M,26
+17419,2,8/6/2024,4,2,False,Email,Gold,High,Likely,F,48
+17420,3,12/12/2024,2,3,False,Social Media,Silver,Low,Unlikely,F,19
+17428,1,20/4/2024,2,2,False,Email,Bronze,High,Likely,F,14
+17430,2,24/10/2024,5,0,True,Email,Bronze,Low,Neutral,F,36
+17431,1,20/12/2024,8,1,False,Email,Bronze,High,Very Likely,M,7
+17442,3,1/11/2024,5,4,False,Social Media,None,Low,Unlikely,M,34
+17446,4,31/12/2024,6,2,True,Social Media,Silver,Low,Neutral,F,42
+17449,2,17/7/2024,3,2,False,Chatbot,Bronze,High,Very Likely,F,24
+17450,2,8/11/2024,5,1,False,SMS,None,High,Likely,F,17
+17454,3,22/9/2024,8,1,False,SMS,Gold,Moderate,Unlikely,M,15
+17456,2,17/8/2024,4,2,True,Social Media,Bronze,Moderate,Likely,F,34
+17457,2,6/9/2024,5,1,True,SMS,Silver,Moderate,Unlikely,F,47
+17460,3,22/6/2024,1,1,False,Social Media,Silver,Moderate,Likely,F,35
+17463,1,23/12/2024,5,3,False,Email,Silver,High,Likely,F,27
+17470,6,24/3/2024,6,3,True,Email,None,Moderate,Likely,F,48
+17491,2,25/10/2024,3,1,True,Chatbot,None,Moderate,Unlikely,F,31
+17496,2,11/12/2024,6,3,False,Email,Silver,Moderate,Likely,F,7
+17504,2,2/8/2024,5,3,True,Social Media,Silver,High,Likely,F,9
+17507,4,24/12/2024,5,2,False,SMS,Bronze,High,Likely,F,25
+17511,1,3/3/2024,6,1,False,Social Media,Bronze,High,Very Likely,F,25
+17515,2,28/11/2024,6,3,False,Email,None,Moderate,Likely,F,44
+17517,4,30/12/2024,7,2,False,Chatbot,Gold,Moderate,Unlikely,F,20
+17519,3,1/10/2024,6,2,False,Email,None,Moderate,Unlikely,F,46
+17524,3,16/7/2024,5,2,True,SMS,None,Low,Unlikely,F,4
+17525,3,27/6/2024,6,3,False,SMS,Bronze,Moderate,Likely,M,11
+17526,6,9/9/2024,6,1,False,Social Media,None,Low,Unlikely,M,22
+17530,3,9/6/2024,5,3,False,SMS,Gold,High,Very Likely,F,28
+17540,3,11/12/2024,10,1,False,Email,None,Low,Unlikely,F,37
+17547,1,24/9/2024,4,5,False,Social Media,None,Low,Unlikely,M,41
+17548,2,9/10/2024,8,2,True,Email,Bronze,Moderate,Unlikely,M,50
+17551,4,28/12/2024,6,1,False,Email,Bronze,High,Likely,M,32
+17552,3,3/5/2024,4,2,False,Email,None,Moderate,Unlikely,F,44
+17555,3,11/10/2024,5,2,False,Chatbot,Bronze,High,Likely,F,27
+17560,2,22/12/2024,4,1,True,Email,Bronze,Moderate,Likely,F,19
+17567,3,5/5/2024,6,0,True,Email,Silver,Moderate,Likely,F,9
+17569,1,29/12/2024,2,2,True,Social Media,None,Moderate,Unlikely,F,41
+17572,2,22/10/2024,2,3,False,Chatbot,Gold,Low,Neutral,F,49
+17576,2,5/7/2024,9,1,False,Email,Bronze,High,Likely,F,23
+17580,3,23/7/2024,1,2,False,Chatbot,None,High,Likely,M,30
+17581,5,7/2/2024,3,4,False,Social Media,None,High,Very Likely,M,25
+17585,3,3/9/2024,4,2,True,Email,Bronze,High,Very Likely,F,26
+17591,6,23/5/2024,3,2,False,Chatbot,None,High,Likely,F,25
+17593,2,14/11/2024,2,2,False,SMS,None,High,Very Likely,F,22
+17596,5,21/9/2024,6,2,False,SMS,None,High,Very Likely,F,38
+17602,6,15/11/2024,2,3,False,Email,Bronze,High,Very Likely,M,40
+17604,6,18/9/2024,7,2,False,SMS,Bronze,High,Likely,F,28
+17609,3,17/8/2024,10,1,False,Email,None,High,Very Likely,M,21
+17611,4,26/5/2024,1,2,True,Chatbot,Bronze,High,Very Likely,M,26
+17618,3,1/12/2024,2,2,False,Email,Silver,High,Very Likely,F,17
+17619,2,22/9/2024,4,1,True,Email,None,High,Very Likely,F,30
+17621,5,5/9/2024,4,2,False,Email,Silver,High,Very Likely,M,25
+17629,4,26/12/2024,8,0,True,Chatbot,Bronze,High,Likely,F,11
+17633,2,10/12/2024,6,4,False,Email,Gold,Low,Unlikely,F,17
+17634,0,,2,3,False,Email,None,High,Likely,F,32
+17643,0,,6,2,False,Email,Gold,Moderate,Unlikely,F,33
+17644,5,23/8/2024,8,5,False,Chatbot,Bronze,Low,Unlikely,F,5
+17646,6,9/12/2024,8,4,True,Email,Bronze,Moderate,Likely,M,13
+17655,1,1/8/2024,2,2,False,Chatbot,Bronze,Moderate,Unlikely,F,2
+17659,2,10/6/2024,5,1,False,Email,None,Moderate,Likely,F,33
+17671,5,19/12/2024,4,0,False,Email,Gold,Low,Neutral,F,34
+17672,4,22/12/2024,3,0,False,SMS,Bronze,High,Likely,M,39
+17673,3,20/11/2024,8,2,False,Social Media,None,High,Very Likely,F,12
+17674,2,8/5/2024,3,0,False,Email,None,Moderate,Unlikely,M,2
+17675,0,,7,4,True,Email,None,High,Very Likely,F,17
+17676,4,2/10/2024,2,1,True,Email,Bronze,Moderate,Likely,M,15
+17677,5,3/5/2024,1,2,True,SMS,Bronze,High,Likely,M,3
+17682,2,22/6/2024,5,3,False,Email,Bronze,Moderate,Unlikely,M,39
+17685,3,27/10/2024,4,2,False,Chatbot,None,High,Likely,M,37
+17690,7,13/6/2024,4,5,False,Email,Bronze,High,Very Likely,F,6
+17691,5,13/9/2024,4,1,False,Email,Bronze,Moderate,Likely,F,48
+17692,3,27/9/2024,3,0,False,Email,None,High,Likely,F,11
+17696,1,20/2/2024,0,3,False,SMS,None,Moderate,Likely,F,2
+17700,3,12/5/2024,2,2,True,SMS,None,Low,Unlikely,F,21
+17702,4,9/11/2024,3,3,True,Email,Gold,Low,Unlikely,F,28
+17706,1,17/6/2024,4,2,False,Social Media,Silver,High,Very Likely,M,29
+17707,3,12/4/2024,2,0,False,Email,Gold,Low,Unlikely,F,4
+17708,3,30/11/2024,6,2,False,Chatbot,None,High,Very Likely,M,44
+17714,4,7/7/2024,5,1,False,SMS,Silver,Moderate,Likely,F,6
+17722,1,19/5/2024,1,3,False,Email,Bronze,High,Very Likely,F,12
+17730,2,30/12/2024,8,3,False,Chatbot,Bronze,Moderate,Unlikely,F,30
+17732,3,24/1/2024,6,1,False,Chatbot,None,High,Likely,F,8
+17735,2,21/9/2024,1,0,False,Email,Silver,High,Likely,M,49
+17739,1,20/8/2024,9,3,True,SMS,Gold,Moderate,Likely,F,7
+17742,1,21/8/2024,3,1,True,Email,None,High,Very Likely,F,35
+17744,3,17/7/2024,9,6,True,SMS,None,High,Likely,F,42
+17757,0,,4,2,False,Email,Bronze,High,Very Likely,F,45
+17760,3,26/6/2024,3,1,False,Chatbot,Gold,Moderate,Unlikely,F,45
+17769,1,17/8/2024,7,2,True,Email,Silver,High,Likely,M,32
+17771,1,12/12/2024,5,2,False,Email,None,High,Likely,F,33
+17786,7,15/4/2024,6,0,True,Email,Bronze,Moderate,Unlikely,F,9
+17787,3,30/4/2024,3,3,False,Email,None,High,Likely,M,8
+17790,2,26/4/2024,7,1,False,SMS,Silver,High,Likely,F,34
+17796,4,23/5/2024,5,2,False,Email,Silver,High,Very Likely,F,5
+17799,4,25/5/2024,8,2,False,Chatbot,Bronze,High,Very Likely,F,14
+17800,0,,7,3,True,Email,None,Moderate,Likely,F,12
+17802,3,9/10/2024,3,1,False,Chatbot,Gold,Moderate,Likely,F,13
+17809,3,28/6/2024,5,1,True,SMS,Bronze,Moderate,Likely,F,24
+17811,7,26/12/2024,9,2,True,Social Media,Gold,High,Likely,M,35
+17812,3,20/5/2024,5,1,True,Social Media,Bronze,High,Very Likely,M,20
+17816,2,10/5/2024,6,3,False,Chatbot,Silver,Moderate,Likely,F,29
+17819,4,5/7/2024,4,1,False,Chatbot,Silver,Moderate,Likely,M,13
+17820,2,25/12/2024,6,4,False,Email,None,Low,Unlikely,F,35
+17827,2,23/7/2024,6,0,False,Chatbot,Gold,High,Very Likely,M,32
+17838,3,24/7/2024,5,2,True,Social Media,None,High,Likely,F,14
+17841,0,,6,5,False,Email,Silver,High,Very Likely,M,21
+17848,0,,4,3,False,SMS,Gold,Moderate,Unlikely,M,25
+17849,3,9/11/2024,4,3,False,Email,None,Moderate,Likely,M,8
+17850,4,15/11/2024,7,2,False,SMS,Bronze,High,Likely,M,12
+17855,6,14/10/2024,7,4,True,Email,Bronze,Low,Unlikely,F,13
+17857,4,23/10/2024,5,3,True,SMS,Silver,Moderate,Likely,M,47
+17858,2,12/12/2024,3,0,False,SMS,Silver,High,Likely,M,34
+17860,2,19/11/2024,3,1,True,Social Media,Bronze,High,Very Likely,F,49
+17861,8,3/12/2024,3,6,True,SMS,Silver,Moderate,Likely,F,37
+17862,4,14/10/2024,2,4,False,Chatbot,None,High,Very Likely,F,17
+17863,3,6/10/2024,6,5,False,Email,None,High,Likely,F,50
+17865,1,24/12/2024,3,3,False,Email,Bronze,High,Likely,M,12
+17869,2,15/6/2024,3,3,False,Email,Bronze,Moderate,Unlikely,M,50
+17873,1,30/12/2024,11,0,False,Email,None,Moderate,Likely,M,26
+17880,3,19/6/2024,4,2,True,Email,Bronze,High,Very Likely,M,12
+17884,4,23/2/2024,10,2,False,SMS,None,High,Likely,F,37
+17888,0,,8,3,False,SMS,Silver,High,Very Likely,M,37
+17889,2,12/9/2024,3,1,True,SMS,None,High,Very Likely,F,40
+17890,5,4/12/2024,7,5,True,Email,Bronze,High,Very Likely,F,27
+17894,5,10/6/2024,5,7,False,Email,Bronze,High,Likely,F,37
+17897,3,7/12/2024,3,3,False,SMS,Gold,High,Likely,M,19
+17905,1,7/12/2024,5,2,True,Email,Silver,High,Likely,M,42
+17908,3,6/12/2024,6,4,False,Email,Silver,High,Likely,F,15
+17912,2,9/7/2024,5,1,False,Email,Gold,High,Likely,M,7
+17913,5,23/9/2024,5,0,False,Email,Bronze,High,Likely,F,29
+17917,1,19/8/2024,2,2,False,Email,None,High,Likely,F,40
+17920,3,2/4/2024,6,2,False,Email,Silver,High,Very Likely,F,18
+17924,3,27/7/2024,5,0,False,Email,Silver,Low,Neutral,M,26
+17929,4,21/12/2024,4,2,False,SMS,Bronze,Low,Neutral,M,4
+17937,2,17/6/2024,7,0,True,Email,Silver,High,Likely,M,38
+17949,2,4/11/2024,5,1,True,Email,Silver,Low,Unlikely,F,15
+17950,1,27/9/2024,6,0,False,Social Media,Gold,High,Likely,F,39
+17951,0,,6,2,False,Chatbot,Gold,Moderate,Unlikely,F,36
+17954,2,12/12/2024,6,1,False,Email,None,High,Likely,F,22
+17961,2,11/2/2024,3,1,False,Social Media,Bronze,High,Likely,F,10
+17964,1,21/2/2024,5,0,True,Email,None,High,Likely,M,5
+17965,5,3/5/2024,4,0,True,Email,None,High,Very Likely,F,7
+17967,7,12/1/2024,8,1,False,Social Media,Silver,High,Very Likely,F,6
+17968,2,27/12/2024,3,0,False,Chatbot,None,High,Likely,M,33
+17969,2,10/6/2024,2,7,False,Email,Bronze,Moderate,Unlikely,F,11
+17975,2,6/7/2024,1,1,False,SMS,Bronze,High,Very Likely,M,6
+17976,1,4/5/2024,7,4,False,SMS,Silver,High,Likely,M,12
+17978,2,1/11/2024,3,2,True,Email,None,Moderate,Unlikely,F,15
+17980,2,17/11/2024,2,4,False,Email,None,Moderate,Unlikely,M,47
+17988,5,24/11/2024,4,2,False,Email,Bronze,Moderate,Unlikely,F,45
+17990,0,,6,2,False,Social Media,None,High,Likely,F,20
+17999,3,19/11/2024,2,2,True,Email,Gold,High,Very Likely,F,30
+18004,2,2/11/2024,7,4,False,Chatbot,Silver,High,Likely,F,30
+18008,5,26/11/2024,4,1,False,Email,Bronze,Low,Unlikely,F,25
+18011,3,23/4/2024,10,2,True,Email,Silver,High,Likely,M,7
+18016,5,28/9/2024,8,3,False,SMS,None,High,Very Likely,F,16
+18032,6,19/12/2024,6,5,False,SMS,Silver,Moderate,Unlikely,F,37
+18037,3,13/12/2024,7,1,True,Email,None,Moderate,Unlikely,M,46
+18041,5,10/11/2024,3,2,False,Email,Silver,High,Likely,M,30
+18043,2,9/11/2024,4,0,False,SMS,Bronze,High,Likely,F,18
+18044,0,,8,3,False,Email,None,Low,Unlikely,F,9
+18050,6,6/11/2024,5,3,False,Email,None,Moderate,Unlikely,F,48
+18055,5,23/6/2024,4,0,False,SMS,Bronze,High,Very Likely,F,18
+18061,3,29/1/2024,4,1,True,SMS,Silver,Moderate,Likely,M,4
+18062,6,23/12/2024,5,0,True,Email,None,Moderate,Unlikely,F,25
+18065,3,25/12/2024,5,0,True,SMS,Bronze,High,Likely,F,47
+18069,1,13/12/2024,4,1,False,Social Media,Silver,High,Likely,F,10
+18071,0,,3,3,False,Email,Bronze,Moderate,Likely,M,24
+18074,2,4/6/2024,6,2,True,SMS,Silver,Moderate,Likely,F,10
+18075,2,27/9/2024,8,5,False,Email,None,High,Very Likely,F,12
+18077,4,14/8/2024,5,2,False,Email,Bronze,High,Very Likely,M,34
+18085,5,4/8/2024,5,2,True,Email,Gold,High,Very Likely,M,34
+18092,1,30/10/2024,3,2,False,Email,Bronze,Moderate,Likely,M,34
+18095,4,27/10/2024,5,1,False,Chatbot,Bronze,High,Very Likely,F,14
+18097,3,4/9/2024,5,2,False,Email,Silver,Moderate,Likely,F,6
+18102,2,30/3/2024,10,1,False,SMS,None,High,Likely,F,48
+18106,3,2/10/2024,4,0,False,Email,Silver,High,Likely,F,49
+18109,2,15/3/2024,4,4,False,Email,Gold,High,Likely,F,9
+18116,3,21/9/2024,9,1,False,SMS,None,High,Very Likely,F,38
+18118,5,31/8/2024,5,3,False,Chatbot,Silver,High,Likely,M,24
+18119,2,21/10/2024,4,1,False,Chatbot,None,High,Very Likely,F,20
+18125,5,12/12/2024,2,2,True,Chatbot,Bronze,High,Likely,F,3
+18136,1,30/10/2024,4,2,False,Email,Silver,High,Very Likely,M,28
+18144,0,,4,1,False,Chatbot,Silver,Moderate,Unlikely,F,26
+18145,4,3/12/2024,5,2,True,Email,Silver,High,Likely,F,36
+18156,6,16/3/2024,2,0,False,Chatbot,Gold,High,Likely,F,26
+18161,4,23/10/2024,8,2,True,Social Media,Bronze,Moderate,Likely,F,47
+18168,3,23/5/2024,3,1,False,Email,Bronze,High,Likely,F,5
+18171,5,4/11/2024,5,1,True,Email,None,Moderate,Unlikely,M,21
+18176,2,8/10/2024,4,0,True,SMS,None,Moderate,Unlikely,M,19
+18178,2,15/12/2024,5,3,False,Chatbot,Bronze,High,Very Likely,F,33
+18179,2,3/5/2024,7,1,False,Email,Silver,High,Likely,F,6
+18190,4,3/10/2024,6,2,True,Social Media,Bronze,Moderate,Likely,M,8
+18193,3,4/11/2024,7,1,False,SMS,Silver,Low,Unlikely,F,31
+18198,5,29/12/2024,3,5,True,Email,Silver,High,Likely,F,29
+18202,2,12/11/2024,8,1,False,Email,None,High,Very Likely,F,18
+18212,2,8/10/2024,3,4,False,Chatbot,Bronze,High,Likely,F,37
+18219,3,27/6/2024,6,1,True,Email,Bronze,High,Very Likely,F,32
+18223,3,17/4/2024,6,0,False,Email,Bronze,High,Likely,M,44
+18225,4,8/2/2024,6,3,True,SMS,Silver,Moderate,Likely,F,28
+18226,1,3/8/2024,3,3,True,SMS,Bronze,High,Very Likely,F,40
+18229,0,,1,2,False,SMS,Silver,High,Very Likely,M,16
+18230,1,12/8/2024,6,3,False,Email,Silver,Moderate,Unlikely,F,36
+18233,4,29/10/2024,5,2,False,Chatbot,Bronze,Low,Unlikely,F,2
+18239,3,24/2/2024,2,2,False,Social Media,Silver,High,Very Likely,M,20
+18245,4,4/8/2024,4,1,False,Email,None,High,Very Likely,F,5
+18250,1,23/12/2024,10,2,False,Chatbot,None,Moderate,Unlikely,M,15
+18256,5,30/5/2024,3,3,False,Social Media,None,Low,Unlikely,M,45
+18259,3,28/7/2024,11,1,False,SMS,Bronze,Low,Unlikely,F,5
+18260,4,2/6/2024,2,2,False,SMS,None,High,Very Likely,M,43
+18269,4,14/7/2024,3,2,False,Email,Gold,Low,Unlikely,M,25
+18277,4,7/11/2024,3,2,False,SMS,Bronze,Low,Unlikely,F,47
+18283,1,29/11/2024,2,2,False,SMS,Bronze,High,Likely,F,36
