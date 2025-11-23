@@ -1,0 +1,14 @@
+SELECT
+  referral_likelihood,
+  AVG(net_revenue) AS avg_revenue,
+  COUNT(transaction_id) / COUNT(DISTINCT customer_id) AS avg_frequency,
+  AVG(email_opened_count) AS avg_email_engagement,
+  AVG(clicked_ad_campaigns) AS avg_ad_clicks,
+  AVG(chatbot_usage_count) AS avg_chatbot_usage,
+  
+  -- product categories bought
+  ARRAY_AGG(DISTINCT product_category) AS categories_bought
+
+FROM `retail_project2_extended.customer_transactions`
+GROUP BY referral_likelihood
+ORDER BY avg_revenue DESC;
